@@ -983,3 +983,185 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.13-16.57.45:287][816]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
 [2020.08.13-16.57.45:439][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
 [2020.08.13-16.57.45:723][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.13-16.59.58:555][726]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.08.13-16.59.58:660][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/UE4_Mannequin_SkeletonED13730C4C4C1BCD0F259B8BAA429007.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.08.13-16.59.58:684][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/SK_Mannequin_PhysicsAsset09C16768442651FE2B4E54AC9B2FAF43.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2020.08.13-16.59.58:802][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/SK_Mannequin5DE2DD8A473E25535A2710B8B265FCA5.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Mesh/SK_Mannequin.uasset'
+[2020.08.13-16.59.59:032][726]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton'
+[2020.08.13-16.59.59:033][726]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset'
+[2020.08.13-16.59.59:033][726]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin'
+[2020.08.13-16.59.59:057][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.13-16.59.59:078][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.13-16.59.59:092][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-16.59.59:112][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.08.13-16.59.59:126][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.13-16.59.59:170][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonIdle471BD1F04CF856EF309B748BE937D788.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2020.08.13-16.59.59:196][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_End8DEAA4EE47D62629871764B454DB2F91.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2020.08.13-16.59.59:223][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_LoopC8779B4E4E2A303649BD2988A5B04A29.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2020.08.13-16.59.59:252][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_Start76ED52C542E14EBCDCDB26A1AD9308A9.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2020.08.13-16.59.59:281][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonRunC2F6A5DE4CCB186DF4198D84AA7CD5E8.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2020.08.13-16.59.59:308][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonWalk975C07464587891FF7520E83B2C1C56C.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2020.08.13-16.59.59:350][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_AnimBPD192373644ADE2163F89F39F5910E624.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.08.13-16.59.59:376][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_IdleRun_2D542F3EB6410FC10E8A17A8AE4E7F4706.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2020.08.13-16.59.59:402][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_Jump0E91AA2A4B97CB91EE9C8A923DB53F5D.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2020.08.13-16.59.59:441][726]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonCharacterDF02E76A447E5D190D6320B1EEA64F57.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.13-16.59.59:531][726]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating Skeleton /Game/PlayerCharacter/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating PhysicsAsset /Game/PlayerCharacter/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/Mesh/SK_Mannequin.SK_Mannequin
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.08.13-16.59.59:531][726]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacter/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.13-17.00.25:559][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:560][117]LogMetaData: Removing '/Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.08.13-17.00.25:598][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_IdleRun_2D7B4E5E48457E2AE23C65B0AB92B61BEE.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2020.08.13-17.00.25:618][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonWalk43705C56477BF20956F6578744EB3021.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonWalk.uasset'
+[2020.08.13-17.00.25:640][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonRunB9D8449D4B1CF921492BFFABEC45F31D.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonRun.uasset'
+[2020.08.13-17.00.25:658][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonIdle48E61B9B424CDCFBC7847581407C1A7F.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonIdle.uasset'
+[2020.08.13-17.00.25:680][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_Start8720A0A24469FF9DE0481E8A7F007320.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonJump_Start.uasset'
+[2020.08.13-17.00.25:699][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_LoopAE6EA3FE4C1B8ED9F487EDA0A1FFAE0A.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonJump_Loop.uasset'
+[2020.08.13-17.00.25:719][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_Jump991AF5024DDFBF423751A7A3964B9E1A.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPerson_Jump.uasset'
+[2020.08.13-17.00.25:754][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPerson_AnimBP9AAA16B0462EBE1A89C8559D54B8AABD.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPerson_AnimBP.uasset'
+[2020.08.13-17.00.25:773][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonJump_EndDD7282B14E2442F5F869C6B493B40FA4.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Animations/ThirdPersonJump_End.uasset'
+[2020.08.13-17.00.26:398][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D'
+[2020.08.13-17.00.26:398][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk'
+[2020.08.13-17.00.26:398][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun'
+[2020.08.13-17.00.26:398][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle'
+[2020.08.13-17.00.26:398][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start'
+[2020.08.13-17.00.26:399][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop'
+[2020.08.13-17.00.26:399][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump'
+[2020.08.13-17.00.26:399][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP'
+[2020.08.13-17.00.26:399][117]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End'
+[2020.08.13-17.00.26:427][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.13-17.00.26:443][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.08.13-17.00.26:457][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-17.00.26:471][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-17.00.26:485][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-17.00.26:500][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-17.00.26:514][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-17.00.26:528][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-17.00.26:544][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.13-17.00.26:563][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.08.13-17.00.26:577][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-17.00.26:619][117]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ThirdPersonCharacter4A93805F45AEC5D143B09FA3BD99EE4D.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.13-17.00.26:691][117]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating BlendSpace1D /Game/PlayerCharacter/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimBlueprint /Game/PlayerCharacter/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating AnimSequence /Game/PlayerCharacter/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.08.13-17.00.26:691][117]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacter/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.13-17.00.45:220][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/UE4_LOGO_CARD65128E06447E2BC2087231A3F33E0339.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Textures/UE4_LOGO_CARD.uasset'
+[2020.08.13-17.00.45:279][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/UE4_Mannequin__normalsAD7AB5F74A406EE1D415C69B3ECCFF83.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Textures/UE4_Mannequin__normals.uasset'
+[2020.08.13-17.00.45:295][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/UE4_Mannequin_MAT_MASKA2F97CC1C4027BD0AF0C61B9F5FFE5CE2.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2020.08.13-17.00.45:315][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/UE4Man_Logo_N462E1505445EB159B8510B92E042AC64.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Textures/UE4Man_Logo_N.uasset'
+[2020.08.13-17.00.45:599][229]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD'
+[2020.08.13-17.00.45:600][229]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals'
+[2020.08.13-17.00.45:600][229]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA'
+[2020.08.13-17.00.45:600][229]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N'
+[2020.08.13-17.00.45:624][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.13-17.00.45:641][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.13-17.00.45:655][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.08.13-17.00.45:670][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.13-17.00.45:690][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.13-17.00.45:704][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.13-17.00.45:724][229]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.08.13-17.00.45:758][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.08.13-17.00.45:758][229]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.13-17.00.45:758][229]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.08.13-17.00.45:758][229]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.13-17.00.45:785][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ML_Plastic_Shiny_Beige_LOGO26E0207E4EF6471DA2FB9FB05EB952D4.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.08.13-17.00.45:831][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/M_UE4Man_Body42DE89DC40A666D040C0C3B924BB87DC.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2020.08.13-17.00.45:867][229]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/M_UE4Man_ChestLogo9934EE434A203F29610EC89BFE6DA0CD.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2020.08.13-17.00.45:959][229]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-17.00.45:959][229]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating MaterialFunction /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating Material /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2020.08.13-17.00.45:960][229]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2020.08.13-17.00.51:869][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/T_ML_Rubber_Blue_01_DD57298FC405DDF971FCEC5B76E1A5179.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.08.13-17.00.51:886][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/T_ML_Rubber_Blue_01_NA46EFB3E460017F3FDAC50B6B95438A2.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.08.13-17.00.51:888][875]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.08.13-17.00.51:911][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.08.13-17.00.51:911][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.13-17.00.51:911][875]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.08.13-17.00.51:911][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.13-17.00.51:934][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ML_GlossyBlack_Latex_UE4E26F30AD489B4F77363A6BA7A0BCAFF9.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.08.13-17.00.51:937][875]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.08.13-17.00.51:983][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ML_Plastic_Shiny_Beige44FA043C430329089B14CCA6D84FCDCC.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.08.13-17.00.52:017][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ML_Plastic_Shiny_Beige_LOGO039B7B8548A80AD1A83AEC92BAD85FF2.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.08.13-17.00.52:041][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/T_ML_Aluminum01A50CAF4D412EEA4A7CEEECAAA1FA5124.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.08.13-17.00.52:071][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/T_ML_Aluminum01_N3F7018424186068483DA77AA9F98CE52.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.08.13-17.00.52:075][875]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.08.13-17.00.52:120][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/ML_SoftMetal_UE4F84E909B4986201F6D444F82A3E38883.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.08.13-17.00.52:154][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/M_UE4Man_BodyE0354E4E4940824832DAE6AECEC4E222.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/M_UE4Man_Body.uasset'
+[2020.08.13-17.00.52:179][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/M_UE4Man_ChestLogo306B239344F4D3A71A95B1BAEA0AEF5D.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Materials/M_UE4Man_ChestLogo.uasset'
+[2020.08.13-17.00.53:290][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D'
+[2020.08.13-17.00.53:291][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N'
+[2020.08.13-17.00.53:291][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4'
+[2020.08.13-17.00.53:292][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige'
+[2020.08.13-17.00.53:292][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO'
+[2020.08.13-17.00.53:293][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01'
+[2020.08.13-17.00.53:293][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N'
+[2020.08.13-17.00.53:294][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4'
+[2020.08.13-17.00.53:295][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body'
+[2020.08.13-17.00.53:297][875]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo'
+[2020.08.13-17.00.53:328][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.13-17.00.53:346][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.13-17.00.53:363][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.13-17.00.53:382][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.13-17.00.53:400][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.08.13-17.00.53:417][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.13-17.00.53:436][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.13-17.00.53:455][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.08.13-17.00.53:473][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.13-17.00.53:490][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.13-17.00.53:513][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.13-17.00.53:529][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.13-17.00.53:707][875]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/SK_Mannequin33E4E4384B12CE50E9F8D7A67F9DE42B.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/PlayerCharacter/Mesh/SK_Mannequin.uasset'
+[2020.08.13-17.00.53:827][875]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating MaterialFunction /Game/PlayerCharacter/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating MaterialFunction /Game/PlayerCharacter/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating MaterialFunction /Game/PlayerCharacter/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating Texture2D /Game/PlayerCharacter/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating MaterialFunction /Game/PlayerCharacter/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating Material /Game/PlayerCharacter/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PlayerCharacter/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2020.08.13-17.00.53:827][875]LogContentValidation: Display: Validating SkeletalMesh /Game/PlayerCharacter/Mesh/SK_Mannequin.SK_Mannequin
+[2020.08.13-17.00.53:972][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2020.08.13-17.00.54:327][903]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.08.13-17.00.54:446][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.08.13-17.00.54:780][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.08.13-17.00.56:803][134]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.08.13-17.00.57:566][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.13-17.00.57:902][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.13-17.00.57:926][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.13-17.00.58:673][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.13-17.00.59:193][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.13-17.00.59:312][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.13-17.00.59:373][359]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.13-17.00.59:658][385]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
