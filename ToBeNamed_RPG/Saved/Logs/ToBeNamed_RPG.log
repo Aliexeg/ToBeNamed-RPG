@@ -1723,3 +1723,477 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.13-17.47.13:173][836]LogFileHelpers: Loading map 'StarterMap' took 0.219
 [2020.08.13-17.47.13:212][836]AssetCheck: New page: Asset Save: ElvenRuins
 [2020.08.13-17.47.13:212][836]LogContentValidation: Display: Validating World /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins
+[2020.08.13-17.50.57:811][253]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.08.13-17.50.57:826][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.13-17.50.57:826][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.13-17.50.57:826][253]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.13-17.50.57:826][253]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.08.13-17.50.57:841][253]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.08.13-17.50.57:861][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.08.13-17.50.57:861][253]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.08.13-17.50.57:881][253]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2020.08.13-17.50.57:893][253]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2020.08.13-17.50.57:917][253]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.08.13-17.50.57:952][253]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.08.13-17.50.57:966][253]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.08.13-17.50.57:982][253]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.08.13-17.50.57:995][253]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.08.13-17.50.58:010][253]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.08.13-17.50.58:023][253]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.08.13-17.50.58:037][253]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.08.13-17.50.58:052][253]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.08.13-17.50.58:269][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 217
+[2020.08.13-17.50.58:506][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 207
+[2020.08.13-17.50.58:543][296]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 197
+[2020.08.13-17.50.59:513][378]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 187
+[2020.08.13-17.51.01:269][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 177
+[2020.08.13-17.51.01:468][536]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 167
+[2020.08.13-17.51.01:664][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 157
+[2020.08.13-17.51.03:012][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 147
+[2020.08.13-17.51.04:032][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 137
+[2020.08.13-17.51.04:433][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 127
+[2020.08.13-17.51.04:497][771]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 117
+[2020.08.13-17.51.05:963][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 107
+[2020.08.13-17.51.06:798][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 97
+[2020.08.13-17.51.07:523][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2020.08.13-17.51.08:102][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2020.08.13-17.51.09:298][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.08.13-17.51.09:856][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2020.08.13-17.51.10:665][418]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2020.08.13-17.51.11:183][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.08.13-17.51.12:692][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.08.13-17.51.12:998][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.13-17.51.13:916][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.13-17.51.14:722][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.13-17.51.14:890][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.13-17.51.14:967][870]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.13-17.51.15:113][883]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.13-17.51.15:322][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.13-17.51.15:532][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.13-17.52.46:748][830]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.13-17.52.47:900][968]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.13-17.52.48:840][ 79]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.08.13-17.52.49:459][153]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.13-17.54.45:285][400]LogTexture: Display: Building textures: T_Roads_01 (AutoDXT, 1024X1024)
+[2020.08.13-17.54.45:285][400]LogTexture: Display: Building textures: T_CliffFace_01 (AutoDXT, 1024X1024)
+[2020.08.13-17.54.45:285][400]LogTexture: Display: Building textures: T_Cliff01 (AutoDXT, 2048X2048)
+[2020.08.13-17.54.45:285][400]LogTexture: Display: Building textures: T_Terrain (AutoDXT, 2048X2048)
+[2020.08.13-17.54.45:285][400]LogTexture: Display: Building textures: T_Grass01 (AutoDXT, 2048X2048)
+[2020.08.13-17.54.45:285][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.45:326][400]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.08.13-17.54.45:326][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.08.13-17.54.45:326][400]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.13-17.54.45:326][400]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.13-17.54.45:327][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.45:333][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.45:339][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.45:344][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.45:350][400]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-17.54.46:708][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.08.13-17.54.48:298][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.08.13-17.54.49:037][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.08.13-17.54.49:424][738]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.08.13-17.54.50:859][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.13-17.54.51:015][833]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.13-17.54.51:289][853]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.13-17.54.51:439][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.13-17.54.51:946][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.13-17.57.20:622][683]Cmd: DELETE
+[2020.08.13-17.57.20:622][683]Cmd: ACTOR DELETE
+[2020.08.13-17.57.20:622][683]LogEditorActor: Deleted Actor: PlayerStart
+[2020.08.13-17.57.20:677][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.08.13-17.57.20:690][683]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2020.08.13-17.57.30:933][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-17.57.30:950][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-17.57.30:950][887]PIE: New page: PIE session: StarterMap (13 Aug 2020, 21:57:30)
+[2020.08.13-17.57.30:950][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-17.57.30:955][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004676s)
+[2020.08.13-17.57.30:955][887]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-17.57.30:955][887]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FEA13F1400), frame # 233887
+[2020.08.13-17.57.30:955][887]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FE3309BD80), frame # 233887
+[2020.08.13-17.57.30:956][887]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.08.13-17.57.30:956][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.005726s)
+[2020.08.13-17.57.30:977][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-17.57.30:981][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-17.57.30:981][887]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-17.57.30:981][887]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-17.57.30:987][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-17.57.30:987][887]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-17.57.31:010][887]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-17.57.31:010][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-17.57.31:010][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-17.57.31:010][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-17.57.31:011][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-17.57.31:011][887]LogInit: FAudioDevice initialized.
+[2020.08.13-17.57.31:027][887]LogLoad: Game class is 'GameModeBase'
+[2020.08.13-17.57.31:028][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-19.57.31
+[2020.08.13-17.57.31:028][887]LogWorld: Bringing up level for play took: 0.000324
+[2020.08.13-17.57.31:028][887]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.08.13-17.57.31:030][887]PIE: Server logged in
+[2020.08.13-17.57.31:031][887]PIE: Play in editor total start time 0.085 seconds.
+[2020.08.13-17.57.32:421][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-17.57.32:421][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-17.57.32:421][ 48]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-17.57.32:421][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-17.57.32:430][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-17.57.32:434][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-17.57.32:454][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-17.57.32:470][ 48]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FE3309BD80), frame # 234048
+[2020.08.13-17.57.32:470][ 48]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FEA13F1400), frame # 234048
+[2020.08.13-17.57.32:472][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.08.13-17.57.32:494][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.08.13-17.58.02:295][577]Cmd: DELETE
+[2020.08.13-17.58.02:295][577]Cmd: ACTOR DELETE
+[2020.08.13-17.58.02:296][577]LogEditorActor: Deleted Actor: Character
+[2020.08.13-17.58.02:344][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.13-17.58.02:349][577]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.08.13-18.00.01:488][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.08.13-18.00.01:519][  8]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap_Auto27A9A9B6741973C2E5C7E2D8ABA36F750.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/Autosaves/Game/Maps/StarterMap_Auto2.umap'
+[2020.08.13-18.00.01:520][  8]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StarterMap' took 0.054
+[2020.08.13-18.00.01:520][  8]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.054
+[2020.08.13-18.00.19:249][126]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.13-18.00.19:251][126]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.08.13-18.00.19:313][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.08.13-18.00.19:313][126]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.08.13-18.00.19:313][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.08.13-18.00.19:313][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.13-18.00.19:501][126]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.13-18.00.22:808][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.08.13-18.00.23:077][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.13-18.00.23:302][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.13-18.00.58:931][671]Cmd: SELECT NONE
+[2020.08.13-18.00.59:966][795]Cmd: SELECT NONE
+[2020.08.13-18.01.14:719][556]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.08.13-18.01.42:722][864]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.13-18.01.43:971][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-18.01.43:995][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.13-18.01.44:008][ 11]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.13-18.01.44:071][ 11]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap15A45CBC4F8DF741CE7BB9B7BD2CA093.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.13-18.01.44:104][ 11]AssetCheck: New page: Asset Save: StarterMap
+[2020.08.13-18.01.44:104][ 11]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.13-18.02.13:712][951]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.08.13-18.02.20:666][775]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.08.13-18.02.21:511][874]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.08.13-18.02.32:393][107]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.08.13-18.02.34:710][384]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-18.02.34:725][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-18.02.34:725][384]PIE: New page: PIE session: StarterMap (13 Aug 2020, 22:02:34)
+[2020.08.13-18.02.34:725][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.02.34:737][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011931s)
+[2020.08.13-18.02.34:738][384]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-18.02.34:738][384]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FE47EB4E00), frame # 267384
+[2020.08.13-18.02.34:738][384]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FE9FC87100), frame # 267384
+[2020.08.13-18.02.34:738][384]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2020.08.13-18.02.34:738][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.012986s)
+[2020.08.13-18.02.34:764][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-18.02.34:770][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-18.02.34:770][384]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-18.02.34:770][384]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-18.02.34:775][384]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-18.02.34:775][384]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-18.02.34:797][384]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-18.02.34:797][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-18.02.34:797][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-18.02.34:797][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-18.02.34:797][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-18.02.34:808][384]LogInit: FAudioDevice initialized.
+[2020.08.13-18.02.34:818][384]LogLoad: Game class is 'GameModeBase'
+[2020.08.13-18.02.34:820][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-20.02.34
+[2020.08.13-18.02.34:821][384]LogWorld: Bringing up level for play took: 0.001531
+[2020.08.13-18.02.34:821][384]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.08.13-18.02.34:823][384]PIE: Server logged in
+[2020.08.13-18.02.34:823][384]PIE: Play in editor total start time 0.101 seconds.
+[2020.08.13-18.02.37:882][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.02.37:882][746]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.02.37:882][746]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-18.02.37:882][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.02.37:890][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-18.02.37:894][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.02.37:930][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.02.37:931][746]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FE9FC87100), frame # 267746
+[2020.08.13-18.02.37:931][746]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FE47EB4E00), frame # 267746
+[2020.08.13-18.02.37:933][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.13-18.02.37:963][747]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.08.13-18.02.39:336][907]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.13-18.02.41:665][170]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.08.13-18.02.42:397][253]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-18.02.42:412][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-18.02.42:412][253]PIE: New page: PIE session: StarterMap (13 Aug 2020, 22:02:42)
+[2020.08.13-18.02.42:441][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.02.42:452][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011219s)
+[2020.08.13-18.02.42:453][253]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-18.02.42:453][253]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FE9C5E5200), frame # 268253
+[2020.08.13-18.02.42:453][253]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FEA1B32E80), frame # 268253
+[2020.08.13-18.02.42:453][253]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2020.08.13-18.02.42:453][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.012176s)
+[2020.08.13-18.02.42:475][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-18.02.42:476][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-18.02.42:476][253]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-18.02.42:476][253]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-18.02.42:482][253]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-18.02.42:482][253]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-18.02.42:501][253]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-18.02.42:501][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-18.02.42:501][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-18.02.42:501][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-18.02.42:502][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-18.02.42:513][253]LogInit: FAudioDevice initialized.
+[2020.08.13-18.02.42:519][253]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.13-18.02.42:521][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-20.02.42
+[2020.08.13-18.02.42:521][253]LogWorld: Bringing up level for play took: 0.001500
+[2020.08.13-18.02.42:521][253]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.08.13-18.02.42:525][253]PIE: Server logged in
+[2020.08.13-18.02.42:525][253]PIE: Play in editor total start time 0.118 seconds.
+[2020.08.13-18.03.00:242][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.03.00:242][374]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.03.00:242][374]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-18.03.00:242][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.03.00:249][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-18.03.00:253][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.03.00:288][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.03.00:289][374]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FEA1B32E80), frame # 270374
+[2020.08.13-18.03.00:289][374]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FE9C5E5200), frame # 270374
+[2020.08.13-18.03.00:291][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.13-18.03.00:320][375]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.08.13-18.03.09:646][452]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.13-18.03.39:551][889]Cmd: TRANSACTION UNDO
+[2020.08.13-18.03.39:551][889]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.08.13-18.03.39:566][889]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.13-18.03.39:964][907]Cmd: TRANSACTION UNDO
+[2020.08.13-18.03.39:964][907]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2020.08.13-18.03.40:681][985]Cmd: TRANSACTION UNDO
+[2020.08.13-18.03.40:681][985]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.08.13-18.04.36:529][541]Cmd: TRANSACTION UNDO
+[2020.08.13-18.04.36:529][541]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.08.13-18.04.36:562][541]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.13-18.04.37:146][577]Cmd: TRANSACTION UNDO
+[2020.08.13-18.04.37:146][577]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.08.13-18.04.37:163][577]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.13-18.05.09:469][395]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-18.05.09:485][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-18.05.09:485][395]PIE: New page: PIE session: StarterMap (13 Aug 2020, 22:05:09)
+[2020.08.13-18.05.09:510][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.05.09:522][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011831s)
+[2020.08.13-18.05.09:523][395]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-18.05.09:523][395]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FEA1293000), frame # 285395
+[2020.08.13-18.05.09:523][395]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FDFE5C4E00), frame # 285395
+[2020.08.13-18.05.09:523][395]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2020.08.13-18.05.09:523][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.012920s)
+[2020.08.13-18.05.09:547][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-18.05.09:553][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-18.05.09:553][395]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-18.05.09:553][395]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-18.05.09:558][395]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-18.05.09:558][395]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-18.05.09:579][395]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-18.05.09:579][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-18.05.09:579][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-18.05.09:579][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-18.05.09:579][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-18.05.09:591][395]LogInit: FAudioDevice initialized.
+[2020.08.13-18.05.09:598][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.13-18.05.09:600][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-20.05.09
+[2020.08.13-18.05.09:601][395]LogWorld: Bringing up level for play took: 0.001609
+[2020.08.13-18.05.09:601][395]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.08.13-18.05.09:603][395]PIE: Server logged in
+[2020.08.13-18.05.09:604][395]PIE: Play in editor total start time 0.123 seconds.
+[2020.08.13-18.05.17:512][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.05.17:512][339]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.05.17:512][339]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-18.05.17:512][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.05.17:519][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-18.05.17:523][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.05.17:557][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.05.17:559][339]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FDFE5C4E00), frame # 286339
+[2020.08.13-18.05.17:559][339]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FEA1293000), frame # 286339
+[2020.08.13-18.05.17:561][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.13-18.05.17:591][340]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.08.13-18.06.39:451][ 32]LogStaticMesh: Building static mesh SM_Env_Fire_Jagged_Rock_1...
+[2020.08.13-18.06.39:507][ 32]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Fire_Environment/Environments/Fire/Env_Fire_Background/StaticMesh/SM_Env_Fire_Jagged_Rock_1.SM_Env_Fire_Jagged_Rock_1
+[2020.08.13-18.06.39:546][ 32]LogActorFactory: Actor Factory created SM_Env_Fire_Jagged_Rock_1
+[2020.08.13-18.06.41:774][290]LogStaticMesh: Building static mesh SM_Env_Fire_Jagged_Rock_2...
+[2020.08.13-18.06.41:828][290]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Fire_Environment/Environments/Fire/Env_Fire_Background/StaticMesh/SM_Env_Fire_Jagged_Rock_2.SM_Env_Fire_Jagged_Rock_2
+[2020.08.13-18.06.41:859][291]LogActorFactory: Actor Factory created SM_Env_Fire_Jagged_Rock_2
+[2020.08.13-18.06.43:195][444]LogStaticMesh: Building static mesh SM_Env_Fire_Jagged_Rock_3...
+[2020.08.13-18.06.43:231][444]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Fire_Environment/Environments/Fire/Env_Fire_Background/StaticMesh/SM_Env_Fire_Jagged_Rock_3.SM_Env_Fire_Jagged_Rock_3
+[2020.08.13-18.06.43:279][447]LogActorFactory: Actor Factory created SM_Env_Fire_Jagged_Rock_3
+[2020.08.13-18.06.44:781][597]LogStaticMesh: Building static mesh SM_Env_Fire_Jagged_Rock_4...
+[2020.08.13-18.06.44:820][597]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Fire_Environment/Environments/Fire/Env_Fire_Background/StaticMesh/SM_Env_Fire_Jagged_Rock_4.SM_Env_Fire_Jagged_Rock_4
+[2020.08.13-18.06.44:878][601]LogActorFactory: Actor Factory created SM_Env_Fire_Jagged_Rock_4
+[2020.08.13-18.06.46:245][757]LogStaticMesh: Building static mesh SM_Env_Fire_Jagged_Rock_5...
+[2020.08.13-18.06.46:275][757]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Fire_Environment/Environments/Fire/Env_Fire_Background/StaticMesh/SM_Env_Fire_Jagged_Rock_5.SM_Env_Fire_Jagged_Rock_5
+[2020.08.13-18.06.46:321][759]LogActorFactory: Actor Factory created SM_Env_Fire_Jagged_Rock_5
+[2020.08.13-18.06.50:768][257]LogMaterial: Display: Material /Game/Environments/Fire_Environment/Environments/Fire/MasterMaterials/SimpleMaster.SimpleMaster needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.08.13-18.06.50:769][257]LogMaterial: Display: Missing cached shader map for material SimpleMaster, compiling. 
+[2020.08.13-18.06.50:839][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.08.13-18.06.50:839][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.08.13-18.06.50:839][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.08.13-18.06.50:839][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.08.13-18.06.54:510][591]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.13-18.06.55:085][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.13-18.06.55:260][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.13-18.06.55:436][675]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.13-18.06.55:642][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.13-18.07.00:371][244]Cmd: TRANSACTION UNDO
+[2020.08.13-18.07.00:371][244]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.07.15:839][868]Cmd: TRANSACTION UNDO
+[2020.08.13-18.07.15:839][868]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.08.03:320][814]Cmd: TRANSACTION UNDO
+[2020.08.13-18.08.03:320][814]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.08.03:739][830]Cmd: TRANSACTION UNDO
+[2020.08.13-18.08.03:739][830]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.08.16:816][180]Cmd: TRANSACTION UNDO
+[2020.08.13-18.08.16:816][180]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.08.17:184][196]Cmd: TRANSACTION UNDO
+[2020.08.13-18.08.17:184][196]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.09.44:636][873]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-18.09.44:652][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-18.09.44:652][873]PIE: New page: PIE session: StarterMap (13 Aug 2020, 22:09:44)
+[2020.08.13-18.09.44:690][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.09.44:705][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015038s)
+[2020.08.13-18.09.44:706][873]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-18.09.44:706][873]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FE9F8CC200), frame # 315873
+[2020.08.13-18.09.44:706][873]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FE59B4FD80), frame # 315873
+[2020.08.13-18.09.44:706][873]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2020.08.13-18.09.44:706][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.016061s)
+[2020.08.13-18.09.44:732][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.08.13-18.09.44:737][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-18.09.44:737][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-18.09.44:737][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-18.09.44:737][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-18.09.44:738][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-18.09.44:738][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-18.09.44:738][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-18.09.44:738][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-18.09.44:738][873]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-18.09.44:738][873]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-18.09.44:743][873]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-18.09.44:743][873]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-18.09.44:764][873]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-18.09.44:765][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-18.09.44:765][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-18.09.44:765][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-18.09.44:765][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-18.09.44:776][873]LogInit: FAudioDevice initialized.
+[2020.08.13-18.09.44:782][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.13-18.09.44:785][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-20.09.44
+[2020.08.13-18.09.44:785][873]LogWorld: Bringing up level for play took: 0.001507
+[2020.08.13-18.09.44:785][873]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.08.13-18.09.44:788][873]PIE: Server logged in
+[2020.08.13-18.09.44:789][873]PIE: Play in editor total start time 0.14 seconds.
+[2020.08.13-18.10.13:641][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.10.13:641][318]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.10.13:641][318]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-18.10.13:641][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.10.13:647][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-18.10.13:652][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.10.13:687][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.10.13:688][318]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FE59B4FD80), frame # 319318
+[2020.08.13-18.10.13:688][318]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FE9F8CC200), frame # 319318
+[2020.08.13-18.10.13:691][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.08.13-18.10.13:721][319]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.08.13-18.10.24:990][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-18.10.25:012][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.08.13-18.10.25:087][643]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap14ADB48348D8C0FEB65216AC922C8897.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.13-18.10.25:125][643]AssetCheck: New page: Asset Save: StarterMap
+[2020.08.13-18.10.25:125][643]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.13-18.10.33:731][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.13-18.10.35:386][826]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.13-18.10.35:402][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.13-18.10.35:402][826]PIE: New page: PIE session: StarterMap (13 Aug 2020, 22:10:35)
+[2020.08.13-18.10.35:451][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.10.35:463][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012720s)
+[2020.08.13-18.10.35:464][826]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.13-18.10.35:464][826]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FE2ED33000), frame # 321826
+[2020.08.13-18.10.35:464][826]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FE9F9D6480), frame # 321826
+[2020.08.13-18.10.35:464][826]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2020.08.13-18.10.35:464][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.013858s)
+[2020.08.13-18.10.35:487][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-18.10.35:488][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-18.10.35:488][826]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-18.10.35:488][826]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-18.10.35:493][826]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-18.10.35:493][826]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-18.10.35:513][826]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.08.13-18.10.35:513][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-18.10.35:513][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-18.10.35:513][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-18.10.35:513][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-18.10.35:525][826]LogInit: FAudioDevice initialized.
+[2020.08.13-18.10.35:535][826]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.13-18.10.35:537][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2020.08.13-20.10.35
+[2020.08.13-18.10.35:538][826]LogWorld: Bringing up level for play took: 0.001529
+[2020.08.13-18.10.35:538][826]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.08.13-18.10.35:541][826]PIE: Server logged in
+[2020.08.13-18.10.35:542][826]PIE: Play in editor total start time 0.144 seconds.
+[2020.08.13-18.11.09:191][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.11.09:191][856]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2020.08.13-18.11.09:191][856]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-18.11.09:191][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.11.09:198][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.13-18.11.09:202][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-18.11.09:223][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-18.11.09:239][856]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FE9F9D6480), frame # 325856
+[2020.08.13-18.11.09:239][856]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FE2ED33000), frame # 325856
+[2020.08.13-18.11.09:241][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.13-18.11.09:273][857]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.08.13-18.11.36:548][402]LogSlate: Window 'Message' being destroyed
+[2020.08.13-18.11.36:552][402]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to remove 28 instances?
+[2020.08.13-18.12.33:731][ 98]LogMaterial: Display: Missing cached shader map for material M_Plains_Ocean, compiling. 
+[2020.08.13-18.12.33:746][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.08.13-18.12.33:746][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.08.13-18.12.33:746][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.13-18.12.33:746][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.13-18.14.20:969][629]Cmd: TRANSACTION UNDO
+[2020.08.13-18.14.20:969][629]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.14.21:318][646]Cmd: TRANSACTION UNDO
+[2020.08.13-18.14.21:318][646]LogEditorTransaction: Undo Foliage Editing
+[2020.08.13-18.15.03:966][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-18.15.03:990][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.13-18.15.04:061][586]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap90763B2E4F33B238526B669480D4558C.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.13-18.15.04:093][586]AssetCheck: New page: Asset Save: StarterMap
+[2020.08.13-18.15.04:094][586]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.13-18.15.49:806][761]LogTexture: Display: Building textures: T_Throne_BlackMarble (AutoDXT, 2048X2048)
+[2020.08.13-18.16.03:917][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.08.13-18.16.11:616][321]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.08.13-18.16.49:799][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-18.16.49:823][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.08.13-18.16.49:901][782]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap82D8F9514C8E2FA3497E0BA7E6D22BD6.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.13-18.16.49:933][782]AssetCheck: New page: Asset Save: StarterMap
+[2020.08.13-18.16.49:933][782]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.13-18.16.56:314][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
