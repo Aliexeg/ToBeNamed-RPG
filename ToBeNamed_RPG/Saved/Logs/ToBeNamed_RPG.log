@@ -2376,3 +2376,1186 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.15-08.02.33:067][258]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
 [2020.08.15-08.02.33:067][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/StarterMap_BuiltData.StarterMap_BuiltData
 [2020.08.15-08.02.41:639][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.15-08.05.02:922][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.02:922][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:116][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:116][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:120][731]LogLinker: Warning: Failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:120][731]LogLinker: Warning: Failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:120][731]LogLinker: Warning: Failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:120][731]LogLinker: Warning: Failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:131][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.03:132][731]LoadErrors: Failed to load /Game/Maps/Temple_Maps/Overview_BuiltData.Overview_BuiltData Referenced by PersistentLevel
+[2020.08.15-08.05.03:132][731]LogLinker: Warning: While loading 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/Temple_Maps/Overview.umap' failed to load '/Game/Maps/Temple_Maps/Overview_BuiltData': Can't find file.
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Asia_Stair01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Clock_01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Asia_Roof02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Asia_Roof01_N (BC5, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Asia_Roof01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Asia_Roof02_N (BC5, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Clock_02_D (AutoDXT, 1024X1024)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Clock_02_N (BC5, 1024X1024)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Clock_01_N (BC5, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Coliseum_2_N (BC5, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_Coliseum_2_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:487][731]LogTexture: Display: Building textures: T_ArenaColumn_01_N (BC5, 2048X2048)
+[2020.08.15-08.05.09:488][731]LogTexture: Display: Building textures: T_ArenaColumn_01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.09:488][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Roof02, compiling. 
+[2020.08.15-08.05.10:635][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.08.15-08.05.10:635][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.08.15-08.05.10:635][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.15-08.05.10:635][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.15-08.05.10:635][731]LogTexture: Display: Building textures: T_Archway01_N (BC5, 1024X1024)
+[2020.08.15-08.05.10:635][731]LogTexture: Display: Building textures: T_Archway01_D (AutoDXT, 1024X1024)
+[2020.08.15-08.05.10:635][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Roof01, compiling. 
+[2020.08.15-08.05.11:339][731]LogTexture: Display: Building textures: T_Coliseum_3_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.11:339][731]LogTexture: Display: Building textures: T_Asia_Stair01_N (BC5, 2048X2048)
+[2020.08.15-08.05.12:629][731]LogTexture: Display: Building textures: T_BonsaiBell_01_N (BC5, 2048X2048)
+[2020.08.15-08.05.12:629][731]LogTexture: Display: Building textures: T_BonsaiBell_01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.12:629][731]LogTexture: Display: Building textures: T_Asia_Bamboo_02_N (BC5, 2048X2048)
+[2020.08.15-08.05.12:629][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Stair01, compiling. 
+[2020.08.15-08.05.13:341][731]LogTexture: Display: Building textures: T_Asia_Bamboo_02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.13:341][731]LogMaterial: Display: Missing cached shader map for material M_Clock_01, compiling. 
+[2020.08.15-08.05.13:394][731]LogStaticMesh: Building static mesh SM_Archive_A...
+[2020.08.15-08.05.15:870][731]LogTexture: Display: Building textures: T_ArenaBG_Spire_01_D (AutoDXT, 1024X1024)
+[2020.08.15-08.05.15:870][731]LogStaticMesh: Built static mesh [2.48s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_A.SM_Archive_A
+[2020.08.15-08.05.15:928][731]LogTexture: Display: Building textures: T_Courtyard_StoneFloor_D (AutoDXT, 1024X1024)
+[2020.08.15-08.05.15:928][731]LogMaterial: Display: Missing cached shader map for material M_Clock_02, compiling. 
+[2020.08.15-08.05.16:423][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_2, compiling. 
+[2020.08.15-08.05.16:441][731]LogStaticMesh: Building static mesh SM_Archive_B...
+[2020.08.15-08.05.16:540][731]LogStaticMesh: Built static mesh [0.10s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_B.SM_Archive_B
+[2020.08.15-08.05.16:554][731]LogStaticMesh: Building static mesh SM_Archive_C...
+[2020.08.15-08.05.16:642][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_C.SM_Archive_C
+[2020.08.15-08.05.16:655][731]LogTexture: Display: Building textures: T_OldStone_NRM (AutoDXT, 2048X2048)
+[2020.08.15-08.05.16:655][731]LogStaticMesh: Building static mesh SM_Archive_D...
+[2020.08.15-08.05.16:822][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_D.SM_Archive_D
+[2020.08.15-08.05.16:844][731]LogStaticMesh: Building static mesh SM_Archive_E...
+[2020.08.15-08.05.17:005][731]LogStaticMesh: Built static mesh [0.16s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_E.SM_Archive_E
+[2020.08.15-08.05.17:027][731]LogStaticMesh: Building static mesh SM_Archive_F...
+[2020.08.15-08.05.17:047][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_F.SM_Archive_F
+[2020.08.15-08.05.17:051][731]LogStaticMesh: Building static mesh SM_Archive_G...
+[2020.08.15-08.05.17:104][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_G.SM_Archive_G
+[2020.08.15-08.05.17:114][731]LogStaticMesh: Building static mesh SM_Archive_H...
+[2020.08.15-08.05.17:137][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_H.SM_Archive_H
+[2020.08.15-08.05.17:143][731]LogStaticMesh: Building static mesh SM_Archive_I...
+[2020.08.15-08.05.17:159][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Archive_I.SM_Archive_I
+[2020.08.15-08.05.17:165][731]LogStaticMesh: Building static mesh SM_ArchiveTablets_01...
+[2020.08.15-08.05.17:202][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_ArchiveTablets_01.SM_ArchiveTablets_01
+[2020.08.15-08.05.17:209][731]LogStaticMesh: Building static mesh SM_ArchiveTablets_02...
+[2020.08.15-08.05.17:253][731]LogTexture: Display: Building textures: T_OldStone (AutoDXT, 256X256)
+[2020.08.15-08.05.17:253][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_ArchiveTablets_02.SM_ArchiveTablets_02
+[2020.08.15-08.05.17:260][731]LogStaticMesh: Building static mesh SM_Archway_01...
+[2020.08.15-08.05.17:293][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Archway_01.SM_Archway_01
+[2020.08.15-08.05.17:299][731]LogStaticMesh: Building static mesh SM_Arena_Column_01...
+[2020.08.15-08.05.17:353][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_Arena_Column_01.SM_Arena_Column_01
+[2020.08.15-08.05.17:358][731]LogStaticMesh: Building static mesh SM_Arena_Column_02...
+[2020.08.15-08.05.17:443][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Arena_Column_02.SM_Arena_Column_02
+[2020.08.15-08.05.17:448][731]LogStaticMesh: Building static mesh SM_ArenaBG_Spire_01...
+[2020.08.15-08.05.17:525][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_ArenaBG_Spire_01.SM_ArenaBG_Spire_01
+[2020.08.15-08.05.17:530][731]LogStaticMesh: Building static mesh SM_Ark_Ship...
+[2020.08.15-08.05.17:985][731]LogTexture: Display: Building textures: T_DamagedWall_N (BC5, 2048X2048)
+[2020.08.15-08.05.17:985][731]LogStaticMesh: Built static mesh [0.45s] /Game/Environments/Temple_Environment/Meshes/SM_Ark_Ship.SM_Ark_Ship
+[2020.08.15-08.05.18:056][731]LogStaticMesh: Building static mesh SM_Ark_Ship_Fin...
+[2020.08.15-08.05.18:077][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Ark_Ship_Fin.SM_Ark_Ship_Fin
+[2020.08.15-08.05.18:082][731]LogStaticMesh: Building static mesh SM_AsiaBridge...
+[2020.08.15-08.05.18:368][731]LogTexture: Display: Building textures: T_DamagedWall_D (AutoDXT, 128X128)
+[2020.08.15-08.05.18:368][731]LogStaticMesh: Built static mesh [0.29s] /Game/Environments/Temple_Environment/Meshes/SM_AsiaBridge.SM_AsiaBridge
+[2020.08.15-08.05.18:378][731]LogStaticMesh: Building static mesh SM_AsianCastle...
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Column_Support01_N (BC5, 2048X2048)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Column_Support01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Column01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Column01_N (BC5, 2048X2048)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Cobble_02_NT_Cobble_02_DL (BC5, 1024X1024)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Cobble_02_DLT_Cobble_02_DL (AutoDXT, 1024X1024)
+[2020.08.15-08.05.20:708][731]LogTexture: Display: Building textures: T_Cobble_02_BT_Cobble_02_DL (AutoDXT, 1024X1024)
+[2020.08.15-08.05.20:708][731]LogStaticMesh: Built static mesh [2.33s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle.SM_AsianCastle
+[2020.08.15-08.05.20:740][731]LogStaticMesh: Building static mesh SM_AsianCastle_A...
+[2020.08.15-08.05.20:842][731]LogStaticMesh: Built static mesh [0.10s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_A.SM_AsianCastle_A
+[2020.08.15-08.05.20:848][731]LogStaticMesh: Building static mesh SM_AsianCastle_B...
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_CastleStitched_01_NRM (AutoDXT, 2048X2048)
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_CastleStitched_01 (AutoDXT, 2048X2048)
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_Castle_Custom_NRM (BC5, 2048X2048)
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_Castle_Custom (AutoDXT, 1024X1024)
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_BlockWall_07_D_NRM (AutoDXT, 2048X2048)
+[2020.08.15-08.05.26:811][731]LogTexture: Display: Building textures: T_BlockWall_07_D (AutoDXT, 1024X1024)
+[2020.08.15-08.05.26:811][731]LogStaticMesh: Built static mesh [5.96s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_B.SM_AsianCastle_B
+[2020.08.15-08.05.26:884][731]LogStaticMesh: Building static mesh SM_AsianCastle_Building...
+[2020.08.15-08.05.28:902][731]LogTexture: Display: Building textures: T_Elevator_Chains_N (BC5, 512X512)
+[2020.08.15-08.05.28:902][731]LogTexture: Display: Building textures: T_Elevator_Chains_D (AutoDXT, 512X512)
+[2020.08.15-08.05.28:902][731]LogTexture: Display: Building textures: T_MapRoom_Pillars_N (BC5, 2048X2048)
+[2020.08.15-08.05.28:902][731]LogTexture: Display: Building textures: T_MapRoom_Pillars_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.28:903][731]LogStaticMesh: Built static mesh [2.02s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_Building.SM_AsianCastle_Building
+[2020.08.15-08.05.28:937][731]LogStaticMesh: Building static mesh SM_AsianCastle_C...
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_ExtCastle_Decay_N (BC5, 512X512)
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_ExtCastle_Decay_D (AutoDXT, 512X512)
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_GeneratorRoom_DamWall_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_Terrace_tree_N (BC5, 2048X2048)
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_Asia_Tree_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.30:926][731]LogTexture: Display: Building textures: T_BookShelf_N (BC5, 2048X2048)
+[2020.08.15-08.05.30:926][731]LogStaticMesh: Built static mesh [1.99s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_C.SM_AsianCastle_C
+[2020.08.15-08.05.30:957][731]LogStaticMesh: Building static mesh SM_AsianCastle_Combined...
+[2020.08.15-08.05.33:422][731]LogTexture: Display: Building textures: T_BookShelf_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.33:422][731]LogTexture: Display: Building textures: T_BonsaiBell_02_N (BC5, 2048X2048)
+[2020.08.15-08.05.33:422][731]LogTexture: Display: Building textures: T_BonsaiBell_02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.33:422][731]LogStaticMesh: Built static mesh [2.47s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_Combined.SM_AsianCastle_Combined
+[2020.08.15-08.05.33:464][731]LogStaticMesh: Building static mesh SM_AsianCastle_D...
+[2020.08.15-08.05.34:842][731]LogStaticMesh: Built static mesh [1.38s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_D.SM_AsianCastle_D
+[2020.08.15-08.05.34:882][731]LogStaticMesh: Building static mesh SM_AsianCastle_E...
+[2020.08.15-08.05.38:061][731]LogStaticMesh: Built static mesh [3.18s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_E.SM_AsianCastle_E
+[2020.08.15-08.05.38:131][731]LogStaticMesh: Building static mesh SM_AsianCastle_G...
+[2020.08.15-08.05.39:522][731]LogTexture: Display: Building textures: T_Sand_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.39:522][731]LogTexture: Display: Building textures: T_Coliseum_3_N (BC5, 2048X2048)
+[2020.08.15-08.05.39:522][731]LogStaticMesh: Built static mesh [1.39s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_G.SM_AsianCastle_G
+[2020.08.15-08.05.39:545][731]LogStaticMesh: Building static mesh SM_AsianCastle_MainDoor_02...
+[2020.08.15-08.05.39:629][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_MainDoor_02.SM_AsianCastle_MainDoor_02
+[2020.08.15-08.05.39:634][731]LogStaticMesh: Building static mesh SM_AsianCastle_MainDoor...
+[2020.08.15-08.05.39:724][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_AsianCastle_MainDoor.SM_AsianCastle_MainDoor
+[2020.08.15-08.05.39:728][731]LogStaticMesh: Building static mesh SM_AsianDoor...
+[2020.08.15-08.05.39:786][731]LogTexture: Display: Building textures: T_Asia_Wall04_N (BC5, 2048X2048)
+[2020.08.15-08.05.39:786][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_AsianDoor.SM_AsianDoor
+[2020.08.15-08.05.39:792][731]LogStaticMesh: Building static mesh SM_AsianLight...
+[2020.08.15-08.05.39:956][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_AsianLight.SM_AsianLight
+[2020.08.15-08.05.39:962][731]LogStaticMesh: Building static mesh SM_AsianRock_01...
+[2020.08.15-08.05.40:158][731]LogTexture: Display: Building textures: T_Asia_Wall04_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.40:158][731]LogStaticMesh: Built static mesh [0.20s] /Game/Environments/Temple_Environment/Meshes/SM_AsianRock_01.SM_AsianRock_01
+[2020.08.15-08.05.40:166][731]LogStaticMesh: Building static mesh SM_AsianRock_02...
+[2020.08.15-08.05.40:444][731]LogTexture: Display: Building textures: T_Asia_Wall03_N (BC5, 2048X2048)
+[2020.08.15-08.05.40:445][731]LogStaticMesh: Built static mesh [0.28s] /Game/Environments/Temple_Environment/Meshes/SM_AsianRock_02.SM_AsianRock_02
+[2020.08.15-08.05.40:455][731]LogStaticMesh: Building static mesh SM_AsianRock_03...
+[2020.08.15-08.05.40:752][731]LogStaticMesh: Built static mesh [0.30s] /Game/Environments/Temple_Environment/Meshes/SM_AsianRock_03.SM_AsianRock_03
+[2020.08.15-08.05.40:762][731]LogStaticMesh: Building static mesh SM_AsianStartPlatform...
+[2020.08.15-08.05.40:926][731]LogTexture: Display: Building textures: T_Asia_Wall03_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.40:926][731]LogStaticMesh: Built static mesh [0.16s] /Game/Environments/Temple_Environment/Meshes/SM_AsianStartPlatform.SM_AsianStartPlatform
+[2020.08.15-08.05.40:931][731]LogStaticMesh: Building static mesh SM_BambooNew_01...
+[2020.08.15-08.05.41:278][731]LogStaticMesh: Built static mesh [0.35s] /Game/Environments/Temple_Environment/Meshes/SM_BambooNew_01.SM_BambooNew_01
+[2020.08.15-08.05.41:293][731]LogStaticMesh: Building static mesh SM_BambooNew_02...
+[2020.08.15-08.05.41:461][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_BambooNew_02.SM_BambooNew_02
+[2020.08.15-08.05.41:476][731]LogTexture: Display: Building textures: T_Metal01 (AutoDXT, 1024X1024)
+[2020.08.15-08.05.41:477][731]LogStaticMesh: Building static mesh SM_BambooNew_03...
+[2020.08.15-08.05.41:583][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_BambooNew_03.SM_BambooNew_03
+[2020.08.15-08.05.41:590][731]LogStaticMesh: Building static mesh SM_BambooNew_04...
+[2020.08.15-08.05.41:651][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_BambooNew_04.SM_BambooNew_04
+[2020.08.15-08.05.41:660][731]LogTexture: Display: Building textures: T_Vases_N (BC5, 2048X2048)
+[2020.08.15-08.05.41:660][731]LogStaticMesh: Building static mesh SM_BonsaiBell...
+[2020.08.15-08.05.41:675][731]LogTexture: Display: Building textures: T_Vases_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.41:813][731]LogStaticMesh: Built static mesh [0.15s] /Game/Environments/Temple_Environment/Meshes/SM_BonsaiBell.SM_BonsaiBell
+[2020.08.15-08.05.41:836][731]LogStaticMesh: Building static mesh SM_BonsaiBellLeaves...
+[2020.08.15-08.05.41:886][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_BonsaiBellLeaves.SM_BonsaiBellLeaves
+[2020.08.15-08.05.41:891][731]LogStaticMesh: Building static mesh SM_BookShelves02...
+[2020.08.15-08.05.41:942][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_BookShelves02.SM_BookShelves02
+[2020.08.15-08.05.41:946][731]LogStaticMesh: Building static mesh SM_CherryTreeBranches...
+[2020.08.15-08.05.42:144][731]LogStaticMesh: Built static mesh [0.20s] /Game/Environments/Temple_Environment/Meshes/SM_CherryTreeBranches.SM_CherryTreeBranches
+[2020.08.15-08.05.42:165][731]LogStaticMesh: Building static mesh SM_CherryTreeTrunk...
+[2020.08.15-08.05.42:225][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_CherryTreeTrunk.SM_CherryTreeTrunk
+[2020.08.15-08.05.42:236][731]LogStaticMesh: Building static mesh SM_Colosseum_A...
+[2020.08.15-08.05.42:352][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 107
+[2020.08.15-08.05.42:352][731]LogStaticMesh: Built static mesh [0.12s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_A.SM_Colosseum_A
+[2020.08.15-08.05.42:368][731]LogStaticMesh: Building static mesh SM_Colosseum_B...
+[2020.08.15-08.05.42:571][731]LogStaticMesh: Built static mesh [0.20s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_B.SM_Colosseum_B
+[2020.08.15-08.05.42:663][731]LogTexture: Display: Building textures: T_Hangar_Wall_01_N (BC5, 2048X2048)
+[2020.08.15-08.05.42:695][731]LogStaticMesh: Building static mesh SM_Colosseum_C...
+[2020.08.15-08.05.42:878][731]LogStaticMesh: Built static mesh [0.18s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_C.SM_Colosseum_C
+[2020.08.15-08.05.42:965][731]LogStaticMesh: Building static mesh SM_Colosseum_D...
+[2020.08.15-08.05.42:982][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_D.SM_Colosseum_D
+[2020.08.15-08.05.42:993][731]LogStaticMesh: Building static mesh SM_Colosseum_Door...
+[2020.08.15-08.05.43:010][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Door.SM_Colosseum_Door
+[2020.08.15-08.05.43:033][731]LogStaticMesh: Building static mesh SM_Colosseum_Door_Bars...
+[2020.08.15-08.05.43:052][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Door_Bars.SM_Colosseum_Door_Bars
+[2020.08.15-08.05.43:056][731]LogStaticMesh: Building static mesh SM_Colosseum_E1...
+[2020.08.15-08.05.43:110][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_E1.SM_Colosseum_E1
+[2020.08.15-08.05.43:124][731]LogStaticMesh: Building static mesh SM_Colosseum_E2...
+[2020.08.15-08.05.43:181][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_E2.SM_Colosseum_E2
+[2020.08.15-08.05.43:189][731]LogStaticMesh: Building static mesh SM_Colosseum_E...
+[2020.08.15-08.05.43:238][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_E.SM_Colosseum_E
+[2020.08.15-08.05.43:246][731]LogStaticMesh: Building static mesh SM_Colosseum_F...
+[2020.08.15-08.05.43:415][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_F.SM_Colosseum_F
+[2020.08.15-08.05.43:439][731]LogStaticMesh: Building static mesh SM_Colosseum_Awning_A...
+[2020.08.15-08.05.43:592][731]LogTexture: Display: Building textures: T_Hangar_Wall_01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.43:643][731]LogTexture: Display: Building textures: T_Shrine_E_N (BC5, 2048X2048)
+[2020.08.15-08.05.43:643][731]LogStaticMesh: Built static mesh [0.20s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Awning_A.SM_Colosseum_Awning_A
+[2020.08.15-08.05.43:655][731]LogStaticMesh: Building static mesh SM_Colosseum_Awning_B...
+[2020.08.15-08.05.43:718][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Awning_B.SM_Colosseum_Awning_B
+[2020.08.15-08.05.43:863][731]LogStaticMesh: Building static mesh SM_Colosseum_Awning_C...
+[2020.08.15-08.05.43:930][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Awning_C.SM_Colosseum_Awning_C
+[2020.08.15-08.05.44:117][731]LogStaticMesh: Building static mesh SM_Colosseum_Awning_D...
+[2020.08.15-08.05.44:177][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 97
+[2020.08.15-08.05.44:177][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Awning_D.SM_Colosseum_Awning_D
+[2020.08.15-08.05.44:187][731]LogStaticMesh: Building static mesh SM_Colosseum_Stairs...
+[2020.08.15-08.05.44:222][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_Colosseum_Stairs.SM_Colosseum_Stairs
+[2020.08.15-08.05.44:227][731]LogStaticMesh: Building static mesh SM_ConcreteRebar...
+[2020.08.15-08.05.44:412][731]LogStaticMesh: Built static mesh [0.18s] /Game/Environments/Temple_Environment/Meshes/SM_ConcreteRebar.SM_ConcreteRebar
+[2020.08.15-08.05.44:430][731]LogStaticMesh: Building static mesh SM_Courtyard...
+[2020.08.15-08.05.44:859][731]LogTexture: Display: Building textures: T_Shrine_E_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.44:859][731]LogStaticMesh: Built static mesh [0.43s] /Game/Environments/Temple_Environment/Meshes/SM_Courtyard.SM_Courtyard
+[2020.08.15-08.05.44:981][731]LogStaticMesh: Building static mesh SM_CourtYard_A...
+[2020.08.15-08.05.45:124][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_A.SM_CourtYard_A
+[2020.08.15-08.05.45:142][731]LogStaticMesh: Building static mesh SM_Courtyard_A_Pit...
+[2020.08.15-08.05.45:221][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_Courtyard_A_Pit.SM_Courtyard_A_Pit
+[2020.08.15-08.05.45:226][731]LogStaticMesh: Building static mesh SM_CourtYard_B...
+[2020.08.15-08.05.45:724][731]LogStaticMesh: Built static mesh [0.50s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_B.SM_CourtYard_B
+[2020.08.15-08.05.45:803][731]LogStaticMesh: Building static mesh SM_CourtYard_C...
+[2020.08.15-08.05.45:946][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_C.SM_CourtYard_C
+[2020.08.15-08.05.45:989][731]LogStaticMesh: Building static mesh SM_CourtYard_D...
+[2020.08.15-08.05.46:028][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_D.SM_CourtYard_D
+[2020.08.15-08.05.46:031][731]LogStaticMesh: Building static mesh SM_CourtYard_E...
+[2020.08.15-08.05.46:115][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_E.SM_CourtYard_E
+[2020.08.15-08.05.46:120][731]LogStaticMesh: Building static mesh SM_CourtYard_F...
+[2020.08.15-08.05.46:152][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYard_F.SM_CourtYard_F
+[2020.08.15-08.05.46:156][731]LogStaticMesh: Building static mesh SM_Courtyard_G...
+[2020.08.15-08.05.46:180][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Courtyard_G.SM_Courtyard_G
+[2020.08.15-08.05.46:183][731]LogStaticMesh: Building static mesh SM_Courtyard_H...
+[2020.08.15-08.05.46:254][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_Courtyard_H.SM_Courtyard_H
+[2020.08.15-08.05.46:262][731]LogStaticMesh: Building static mesh SM_CourtYardBuilding...
+[2020.08.15-08.05.48:705][731]LogStaticMesh: Built static mesh [2.44s] /Game/Environments/Temple_Environment/Meshes/SM_CourtYardBuilding.SM_CourtYardBuilding
+[2020.08.15-08.05.48:848][731]LogStaticMesh: Building static mesh SM_DemonDoor...
+[2020.08.15-08.05.48:899][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_DemonDoor.SM_DemonDoor
+[2020.08.15-08.05.48:910][731]LogStaticMesh: Building static mesh SM_DemonDoorComb...
+[2020.08.15-08.05.49:037][731]LogStaticMesh: Built static mesh [0.13s] /Game/Environments/Temple_Environment/Meshes/SM_DemonDoorComb.SM_DemonDoorComb
+[2020.08.15-08.05.49:060][731]LogStaticMesh: Building static mesh SM_DemonGate_01...
+[2020.08.15-08.05.49:137][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_DemonGate_01.SM_DemonGate_01
+[2020.08.15-08.05.49:145][731]LogStaticMesh: Building static mesh SM_DemonGate_02...
+[2020.08.15-08.05.49:236][731]LogTexture: Display: Building textures: T_Hangar_Wall_02_N (BC5, 2048X2048)
+[2020.08.15-08.05.49:263][731]LogStaticMesh: Built static mesh [0.12s] /Game/Environments/Temple_Environment/Meshes/SM_DemonGate_02.SM_DemonGate_02
+[2020.08.15-08.05.49:269][731]LogStaticMesh: Building static mesh SM_FlatRocks_01...
+[2020.08.15-08.05.49:954][731]LogTexture: Display: Building textures: T_Hangar_Wall_02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.49:954][731]LogStaticMesh: Built static mesh [0.68s] /Game/Environments/Temple_Environment/Meshes/SM_FlatRocks_01.SM_FlatRocks_01
+[2020.08.15-08.05.49:975][731]LogStaticMesh: Building static mesh SM_FlatRocks_02...
+[2020.08.15-08.05.51:287][731]LogTexture: Display: Building textures: T_Shrine_Frame_N (BC5, 2048X2048)
+[2020.08.15-08.05.51:287][731]LogTexture: Display: Building textures: T_Shrine_Frame_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.51:288][731]LogTexture: Display: Building textures: T_Hangar_Surbase_N (BC5, 2048X2048)
+[2020.08.15-08.05.51:288][731]LogStaticMesh: Built static mesh [1.31s] /Game/Environments/Temple_Environment/Meshes/SM_FlatRocks_02.SM_FlatRocks_02
+[2020.08.15-08.05.51:301][731]LogStaticMesh: Building static mesh SM_FlatRocks_03...
+[2020.08.15-08.05.51:824][731]LogTexture: Display: Building textures: T_Hangar_Surbase_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.51:824][731]LogStaticMesh: Built static mesh [0.52s] /Game/Environments/Temple_Environment/Meshes/SM_FlatRocks_03.SM_FlatRocks_03
+[2020.08.15-08.05.51:839][731]LogStaticMesh: Building static mesh SM_FlatRocks_04...
+[2020.08.15-08.05.52:668][731]LogStaticMesh: Built static mesh [0.83s] /Game/Environments/Temple_Environment/Meshes/SM_FlatRocks_04.SM_FlatRocks_04
+[2020.08.15-08.05.52:692][731]LogStaticMesh: Building static mesh SM_FlatRocks_05...
+[2020.08.15-08.05.52:700][731]LogTexture: Display: Building textures: T_Hangar_Ceiling_N (BC5, 2048X2048)
+[2020.08.15-08.05.53:507][731]LogTexture: Display: Building textures: T_Hangar_Ceiling_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.53:507][731]LogStaticMesh: Built static mesh [0.82s] /Game/Environments/Temple_Environment/Meshes/SM_FlatRocks_05.SM_FlatRocks_05
+[2020.08.15-08.05.53:547][731]LogStaticMesh: Building static mesh SM_FloorGrating...
+[2020.08.15-08.05.53:570][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_FloorGrating.SM_FloorGrating
+[2020.08.15-08.05.53:573][731]LogStaticMesh: Building static mesh SM_Forest_Ruins_01...
+[2020.08.15-08.05.53:716][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_Forest_Ruins_01.SM_Forest_Ruins_01
+[2020.08.15-08.05.53:728][731]LogStaticMesh: Building static mesh SM_Forest_Ruins_02...
+[2020.08.15-08.05.53:813][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Forest_Ruins_02.SM_Forest_Ruins_02
+[2020.08.15-08.05.53:826][731]LogStaticMesh: Building static mesh SM_Fountain...
+[2020.08.15-08.05.53:963][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_Fountain.SM_Fountain
+[2020.08.15-08.05.53:992][731]LogTexture: Display: Building textures: T_Tomb_N (BC5, 2048X2048)
+[2020.08.15-08.05.54:014][731]LogStaticMesh: Building static mesh SM_FrontGate_Hallway...
+[2020.08.15-08.05.54:078][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_FrontGate_Hallway.SM_FrontGate_Hallway
+[2020.08.15-08.05.54:083][731]LogStaticMesh: Building static mesh SM_FrontHall_A...
+[2020.08.15-08.05.55:941][731]LogTexture: Display: Building textures: T_Tomb_D (AutoDXT, 2048X2048)
+[2020.08.15-08.05.55:941][731]LogTexture: Display: Building textures: T_Cliff01_N (BC5, 2048X2048)
+[2020.08.15-08.05.55:941][731]LogStaticMesh: Built static mesh [1.86s] /Game/Environments/Temple_Environment/Meshes/SM_FrontHall_A.SM_FrontHall_A
+[2020.08.15-08.05.55:946][731]LogStaticMesh: Building static mesh SM_FrontHall_B...
+[2020.08.15-08.05.56:037][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_FrontHall_B.SM_FrontHall_B
+[2020.08.15-08.05.56:049][731]LogStaticMesh: Building static mesh SM_FrontHall_C...
+[2020.08.15-08.05.56:509][731]LogTexture: Display: Building textures: T_Cliff01_B (AutoDXT, 2048X2048)
+[2020.08.15-08.05.56:509][731]LogStaticMesh: Built static mesh [0.46s] /Game/Environments/Temple_Environment/Meshes/SM_FrontHall_C.SM_FrontHall_C
+[2020.08.15-08.05.56:555][731]LogStaticMesh: Building static mesh SM_HeroRock...
+[2020.08.15-08.05.56:897][731]LogStaticMesh: Built static mesh [0.34s] /Game/Environments/Temple_Environment/Meshes/SM_HeroRock.SM_HeroRock
+[2020.08.15-08.05.56:908][731]LogStaticMesh: Building static mesh SM_HeroRocks_01...
+[2020.08.15-08.05.57:288][731]LogStaticMesh: Built static mesh [0.38s] /Game/Environments/Temple_Environment/Meshes/SM_HeroRocks_01.SM_HeroRocks_01
+[2020.08.15-08.05.57:299][731]LogStaticMesh: Building static mesh SM_HeroRocks_02...
+[2020.08.15-08.05.57:548][731]LogStaticMesh: Built static mesh [0.25s] /Game/Environments/Temple_Environment/Meshes/SM_HeroRocks_02.SM_HeroRocks_02
+[2020.08.15-08.05.57:557][731]LogStaticMesh: Building static mesh SM_InnerCastle_A...
+[2020.08.15-08.05.57:601][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_InnerCastle_A.SM_InnerCastle_A
+[2020.08.15-08.05.57:606][731]LogStaticMesh: Building static mesh SM_InnerCourtHouse_A...
+[2020.08.15-08.05.57:756][731]LogStaticMesh: Built static mesh [0.15s] /Game/Environments/Temple_Environment/Meshes/SM_InnerCourtHouse_A.SM_InnerCourtHouse_A
+[2020.08.15-08.05.57:774][731]LogStaticMesh: Building static mesh SM_InnerCourtHouse_B...
+[2020.08.15-08.05.57:864][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_InnerCourtHouse_B.SM_InnerCourtHouse_B
+[2020.08.15-08.05.57:876][731]LogStaticMesh: Building static mesh SM_InnerGate...
+[2020.08.15-08.05.57:983][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_InnerGate.SM_InnerGate
+[2020.08.15-08.05.57:999][731]LogStaticMesh: Building static mesh SM_InnerGateArch...
+[2020.08.15-08.05.58:019][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_InnerGateArch.SM_InnerGateArch
+[2020.08.15-08.05.58:023][731]LogStaticMesh: Building static mesh SM_InnerRail...
+[2020.08.15-08.05.58:203][731]LogStaticMesh: Built static mesh [0.18s] /Game/Environments/Temple_Environment/Meshes/SM_InnerRail.SM_InnerRail
+[2020.08.15-08.05.58:224][731]LogStaticMesh: Building static mesh SM_InnerRailGrass...
+[2020.08.15-08.05.58:244][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_InnerRailGrass.SM_InnerRailGrass
+[2020.08.15-08.05.58:247][731]LogStaticMesh: Building static mesh SM_InnerTower...
+[2020.08.15-08.05.58:326][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_InnerTower.SM_InnerTower
+[2020.08.15-08.05.58:336][731]LogStaticMesh: Building static mesh SM_InnerWalls...
+[2020.08.15-08.05.58:384][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_InnerWalls.SM_InnerWalls
+[2020.08.15-08.05.58:390][731]LogStaticMesh: Building static mesh SM_Iron_Window...
+[2020.08.15-08.05.58:427][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_Iron_Window.SM_Iron_Window
+[2020.08.15-08.05.58:434][731]LogStaticMesh: Building static mesh SM_IronDoor...
+[2020.08.15-08.05.58:493][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_IronDoor.SM_IronDoor
+[2020.08.15-08.05.58:502][731]LogStaticMesh: Building static mesh SM_IronTrim...
+[2020.08.15-08.05.58:616][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_IronTrim.SM_IronTrim
+[2020.08.15-08.05.58:635][731]LogStaticMesh: Building static mesh SM_MapRoom_Arches_Windows...
+[2020.08.15-08.05.58:792][731]LogStaticMesh: Built static mesh [0.16s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Arches_Windows.SM_MapRoom_Arches_Windows
+[2020.08.15-08.05.58:808][731]LogStaticMesh: Building static mesh SM_MapRoom_Curtains...
+[2020.08.15-08.05.58:819][731]LogTexture: Display: Building textures: T_Cliff01 (AutoDXT, 2048X2048)
+[2020.08.15-08.05.58:873][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Curtains.SM_MapRoom_Curtains
+[2020.08.15-08.05.58:884][731]LogStaticMesh: Building static mesh SM_MapRoom_Main...
+[2020.08.15-08.05.58:955][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Main.SM_MapRoom_Main
+[2020.08.15-08.05.58:963][731]LogStaticMesh: Building static mesh SM_MapRoom_Pillars...
+[2020.08.15-08.05.59:031][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Pillars.SM_MapRoom_Pillars
+[2020.08.15-08.05.59:038][731]LogStaticMesh: Building static mesh SM_MapRoom_Stairs...
+[2020.08.15-08.05.59:102][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Stairs.SM_MapRoom_Stairs
+[2020.08.15-08.05.59:108][731]LogStaticMesh: Building static mesh SM_MapRoom_StairsFightArea...
+[2020.08.15-08.05.59:134][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_StairsFightArea.SM_MapRoom_StairsFightArea
+[2020.08.15-08.05.59:143][731]LogStaticMesh: Building static mesh SM_MapRoom_Throne...
+[2020.08.15-08.05.59:194][731]LogStaticMesh: Built static mesh [0.05s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Throne.SM_MapRoom_Throne
+[2020.08.15-08.05.59:203][731]LogStaticMesh: Building static mesh SM_MapRoom_Throne_Top...
+[2020.08.15-08.05.59:276][731]LogStaticMesh: Built static mesh [0.07s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Throne_Top.SM_MapRoom_Throne_Top
+[2020.08.15-08.05.59:287][731]LogStaticMesh: Building static mesh SM_MapRoom_Window...
+[2020.08.15-08.05.59:368][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_MapRoom_Window.SM_MapRoom_Window
+[2020.08.15-08.05.59:376][731]LogStaticMesh: Building static mesh SM_MeditationFloor...
+[2020.08.15-08.05.59:392][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_MeditationFloor.SM_MeditationFloor
+[2020.08.15-08.05.59:395][731]LogStaticMesh: Building static mesh SM_MeditationSteps...
+[2020.08.15-08.05.59:427][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_MeditationSteps.SM_MeditationSteps
+[2020.08.15-08.05.59:431][731]LogStaticMesh: Building static mesh SM_MeditationTimber...
+[2020.08.15-08.05.59:471][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_MeditationTimber.SM_MeditationTimber
+[2020.08.15-08.05.59:478][731]LogStaticMesh: Building static mesh SM_MeditationWalls...
+[2020.08.15-08.05.59:574][731]LogStaticMesh: Built static mesh [0.10s] /Game/Environments/Temple_Environment/Meshes/SM_MeditationWalls.SM_MeditationWalls
+[2020.08.15-08.05.59:584][731]LogStaticMesh: Building static mesh SM_MeditationWindows...
+[2020.08.15-08.05.59:604][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_MeditationWindows.SM_MeditationWindows
+[2020.08.15-08.05.59:608][731]LogStaticMesh: Building static mesh SM_NestRock...
+[2020.08.15-08.05.59:687][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_NestRock.SM_NestRock
+[2020.08.15-08.05.59:691][731]LogStaticMesh: Building static mesh SM_OniStatue01...
+[2020.08.15-08.05.59:714][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_OniStatue01.SM_OniStatue01
+[2020.08.15-08.05.59:718][731]LogStaticMesh: Building static mesh SM_OniStatue02...
+[2020.08.15-08.05.59:740][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_OniStatue02.SM_OniStatue02
+[2020.08.15-08.05.59:744][731]LogStaticMesh: Building static mesh SM_OniStatue03...
+[2020.08.15-08.05.59:761][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_OniStatue03.SM_OniStatue03
+[2020.08.15-08.05.59:765][731]LogStaticMesh: Building static mesh SM_OniStatue04...
+[2020.08.15-08.05.59:778][731]LogTexture: Display: Building textures: T_Throne_StoneFloor (AutoDXT, 1024X1024)
+[2020.08.15-08.05.59:789][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_OniStatue04.SM_OniStatue04
+[2020.08.15-08.05.59:794][731]LogStaticMesh: Building static mesh SM_Paperlantern...
+[2020.08.15-08.05.59:826][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Paperlantern.SM_Paperlantern
+[2020.08.15-08.05.59:830][731]LogStaticMesh: Building static mesh SM_Pillar...
+[2020.08.15-08.05.59:851][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Pillar.SM_Pillar
+[2020.08.15-08.05.59:867][731]LogStaticMesh: Building static mesh SM_PillarRuinA...
+[2020.08.15-08.06.00:059][731]LogStaticMesh: Built static mesh [0.19s] /Game/Environments/Temple_Environment/Meshes/SM_PillarRuinA.SM_PillarRuinA
+[2020.08.15-08.06.00:083][731]LogStaticMesh: Building static mesh SM_PillarRuinB...
+[2020.08.15-08.06.00:262][731]LogStaticMesh: Built static mesh [0.18s] /Game/Environments/Temple_Environment/Meshes/SM_PillarRuinB.SM_PillarRuinB
+[2020.08.15-08.06.00:291][731]LogStaticMesh: Building static mesh SM_PitCliffs...
+[2020.08.15-08.06.00:327][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_PitCliffs.SM_PitCliffs
+[2020.08.15-08.06.00:337][731]LogStaticMesh: Building static mesh SM_PitTower...
+[2020.08.15-08.06.00:446][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_PitTower.SM_PitTower
+[2020.08.15-08.06.00:460][731]LogStaticMesh: Building static mesh SM_Plate...
+[2020.08.15-08.06.00:482][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Plate.SM_Plate
+[2020.08.15-08.06.00:491][731]LogStaticMesh: Building static mesh SM_Platform...
+[2020.08.15-08.06.00:529][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_Platform.SM_Platform
+[2020.08.15-08.06.00:536][731]LogStaticMesh: Building static mesh SM_Platform_A...
+[2020.08.15-08.06.00:565][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Platform_A.SM_Platform_A
+[2020.08.15-08.06.00:572][731]LogStaticMesh: Building static mesh SM_Platform_B...
+[2020.08.15-08.06.00:601][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Platform_B.SM_Platform_B
+[2020.08.15-08.06.00:606][731]LogStaticMesh: Building static mesh SM_PlatformSquare...
+[2020.08.15-08.06.00:632][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_PlatformSquare.SM_PlatformSquare
+[2020.08.15-08.06.00:637][731]LogStaticMesh: Building static mesh SM_Rancid_StoneFloor...
+[2020.08.15-08.06.01:124][731]LogStaticMesh: Built static mesh [0.49s] /Game/Environments/Temple_Environment/Meshes/SM_Rancid_StoneFloor.SM_Rancid_StoneFloor
+[2020.08.15-08.06.01:143][731]LogStaticMesh: Building static mesh SM_Rancid_StoneWall...
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_MarbleWhite_00_NRM (AutoDXT, 2048X2048)
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_StoneFloor_N (BC5, 1024X1024)
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_StoneFloor_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_GeneratorRoom_Surbase_N (BC5, 2048X2048)
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_GeneratorRoom_Surbase_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.03:221][731]LogTexture: Display: Building textures: T_GeneratorRoom_StoneWall_N (AutoDXT, 2048X2048)
+[2020.08.15-08.06.03:221][731]LogStaticMesh: Built static mesh [2.08s] /Game/Environments/Temple_Environment/Meshes/SM_Rancid_StoneWall.SM_Rancid_StoneWall
+[2020.08.15-08.06.03:246][731]LogStaticMesh: Building static mesh SM_RancidRocks_01...
+[2020.08.15-08.06.03:323][731]LogStaticMesh: Built static mesh [0.08s] /Game/Environments/Temple_Environment/Meshes/SM_RancidRocks_01.SM_RancidRocks_01
+[2020.08.15-08.06.03:327][731]LogTexture: Display: Building textures: T_GeneratorRoom_StoneWall_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.03:327][731]LogStaticMesh: Building static mesh SM_RancidSteps_01...
+[2020.08.15-08.06.03:428][731]LogStaticMesh: Built static mesh [0.10s] /Game/Environments/Temple_Environment/Meshes/SM_RancidSteps_01.SM_RancidSteps_01
+[2020.08.15-08.06.03:433][731]LogStaticMesh: Building static mesh SM_RancidSteps_02...
+[2020.08.15-08.06.03:543][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_RancidSteps_02.SM_RancidSteps_02
+[2020.08.15-08.06.03:548][731]LogStaticMesh: Building static mesh SM_RancidSteps_03...
+[2020.08.15-08.06.03:836][731]LogStaticMesh: Built static mesh [0.29s] /Game/Environments/Temple_Environment/Meshes/SM_RancidSteps_03.SM_RancidSteps_03
+[2020.08.15-08.06.03:843][731]LogStaticMesh: Building static mesh SM_RancidSteps_04...
+[2020.08.15-08.06.03:938][731]LogStaticMesh: Built static mesh [0.10s] /Game/Environments/Temple_Environment/Meshes/SM_RancidSteps_04.SM_RancidSteps_04
+[2020.08.15-08.06.04:057][731]LogStaticMesh: Building static mesh SM_Reflect_Floor...
+[2020.08.15-08.06.04:099][731]LogStaticMesh: Built static mesh [0.04s] /Game/Environments/Temple_Environment/Meshes/SM_Reflect_Floor.SM_Reflect_Floor
+[2020.08.15-08.06.04:187][731]LogStaticMesh: Building static mesh SM_RockNew_01...
+[2020.08.15-08.06.04:300][731]LogStaticMesh: Built static mesh [0.11s] /Game/Environments/Temple_Environment/Meshes/SM_RockNew_01.SM_RockNew_01
+[2020.08.15-08.06.04:306][731]LogStaticMesh: Building static mesh SM_RockNew_02...
+[2020.08.15-08.06.04:337][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_RockNew_02.SM_RockNew_02
+[2020.08.15-08.06.04:341][731]LogStaticMesh: Building static mesh SM_RockNew_03...
+[2020.08.15-08.06.04:430][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_RockNew_03.SM_RockNew_03
+[2020.08.15-08.06.04:448][731]LogStaticMesh: Building static mesh SM_Rocks_Combined_OuterWalls...
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_GeneratorRoom_BrokenStoneFloor_N (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_GeneratorRoom_BrokenStoneFloor_D (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_Plate_N (BC5, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_Plate_D (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_CastlePieces01_N (BC5, 2048X2048)
+[2020.08.15-08.06.16:311][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_CastlePieces01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_PaperLantern (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_Asia_OniStatues_N (BC5, 2048X2048)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_Asia_OniStatues_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_WindowFrame_D (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:311][731]LogTexture: Display: Building textures: T_Rock08_n (BC5, 2048X2048)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Dojo_TileFloor (AutoDXT, 2048X2048)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Dojo_TileFloor_N (BC5, 2048X2048)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Dojo_Beams (AutoDXT, 2048X2048)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Dojo_Steps_N (BC5, 1024X1024)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Dojo_Steps (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Thrones_MapRoom_N (BC5, 1024X1024)
+[2020.08.15-08.06.16:312][731]LogTexture: Display: Building textures: T_Thrones_MapRoom_D (AutoDXT, 1024X1024)
+[2020.08.15-08.06.16:312][731]LogStaticMesh: Built static mesh [11.86s] /Game/Environments/Temple_Environment/Meshes/SM_Rocks_Combined_OuterWalls.SM_Rocks_Combined_OuterWalls
+[2020.08.15-08.06.17:077][731]LogStaticMesh: Building static mesh SM_Scaffolding...
+[2020.08.15-08.06.17:168][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Scaffolding.SM_Scaffolding
+[2020.08.15-08.06.17:248][731]LogStaticMesh: Building static mesh SM_Scaffolding_2...
+[2020.08.15-08.06.17:389][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_Scaffolding_2.SM_Scaffolding_2
+[2020.08.15-08.06.17:483][731]LogTexture: Display: Building textures: T_MapRoom_Wall_N (BC5, 2048X2048)
+[2020.08.15-08.06.17:483][731]LogStaticMesh: Building static mesh SM_ScaffoldingBeam...
+[2020.08.15-08.06.17:499][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_ScaffoldingBeam.SM_ScaffoldingBeam
+[2020.08.15-08.06.17:606][731]LogStaticMesh: Building static mesh SM_ScaffoldingCross...
+[2020.08.15-08.06.17:628][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_ScaffoldingCross.SM_ScaffoldingCross
+[2020.08.15-08.06.17:714][731]LogStaticMesh: Building static mesh SM_ScaffoldingTower...
+[2020.08.15-08.06.17:745][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_ScaffoldingTower.SM_ScaffoldingTower
+[2020.08.15-08.06.17:842][731]LogStaticMesh: Building static mesh SM_Sconce...
+[2020.08.15-08.06.17:934][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Sconce.SM_Sconce
+[2020.08.15-08.06.17:944][731]LogStaticMesh: Building static mesh SM_Sepulcher...
+[2020.08.15-08.06.18:068][731]LogStaticMesh: Built static mesh [0.12s] /Game/Environments/Temple_Environment/Meshes/SM_Sepulcher.SM_Sepulcher
+[2020.08.15-08.06.18:077][731]LogTexture: Display: Building textures: T_MapRoom_Wall_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.18:078][731]LogStaticMesh: Building static mesh SM_Shrine_A...
+[2020.08.15-08.06.18:243][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_A.SM_Shrine_A
+[2020.08.15-08.06.18:254][731]LogStaticMesh: Building static mesh SM_Shrine_B...
+[2020.08.15-08.06.18:339][731]LogStaticMesh: Built static mesh [0.09s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_B.SM_Shrine_B
+[2020.08.15-08.06.18:346][731]LogStaticMesh: Building static mesh SM_Shrine_C...
+[2020.08.15-08.06.18:484][731]LogStaticMesh: Built static mesh [0.14s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_C.SM_Shrine_C
+[2020.08.15-08.06.18:496][731]LogStaticMesh: Building static mesh SM_Shrine_D...
+[2020.08.15-08.06.18:523][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_D.SM_Shrine_D
+[2020.08.15-08.06.18:528][731]LogStaticMesh: Building static mesh SM_Shrine_E...
+[2020.08.15-08.06.18:556][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_E.SM_Shrine_E
+[2020.08.15-08.06.18:561][731]LogStaticMesh: Building static mesh SM_Shrine_F...
+[2020.08.15-08.06.18:592][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_F.SM_Shrine_F
+[2020.08.15-08.06.18:596][731]LogStaticMesh: Building static mesh SM_Shrine_G...
+[2020.08.15-08.06.18:627][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Shrine_G.SM_Shrine_G
+[2020.08.15-08.06.18:632][731]LogStaticMesh: Building static mesh SM_CycRoom_01...
+[2020.08.15-08.06.18:695][731]LogStaticMesh: Built static mesh [0.06s] /Game/Maps/Temple_Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2020.08.15-08.06.18:709][731]LogStaticMesh: Building static mesh SM_StoneWall...
+[2020.08.15-08.06.18:739][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_StoneWall.SM_StoneWall
+[2020.08.15-08.06.18:744][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Ceiling...
+[2020.08.15-08.06.18:760][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Ceiling.SM_Sub_Shrine_Ceiling
+[2020.08.15-08.06.18:763][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Flags...
+[2020.08.15-08.06.18:782][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Flags.SM_Sub_Shrine_Flags
+[2020.08.15-08.06.18:787][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Floor...
+[2020.08.15-08.06.18:807][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Floor.SM_Sub_Shrine_Floor
+[2020.08.15-08.06.18:811][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_IronWork_01...
+[2020.08.15-08.06.19:078][731]LogTexture: Display: Building textures: T_MapRoom_Floor_N (BC5, 2048X2048)
+[2020.08.15-08.06.19:078][731]LogStaticMesh: Built static mesh [0.27s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_IronWork_01.SM_Sub_Shrine_IronWork_01
+[2020.08.15-08.06.19:132][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_IronWork_02...
+[2020.08.15-08.06.19:492][731]LogStaticMesh: Built static mesh [0.36s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_IronWork_02.SM_Sub_Shrine_IronWork_02
+[2020.08.15-08.06.19:554][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Main...
+[2020.08.15-08.06.19:725][731]LogStaticMesh: Built static mesh [0.17s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Main.SM_Sub_Shrine_Main
+[2020.08.15-08.06.19:744][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Vases_01...
+[2020.08.15-08.06.19:808][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Vases_01.SM_Sub_Shrine_Vases_01
+[2020.08.15-08.06.19:820][731]LogStaticMesh: Building static mesh SM_Sub_Shrine_Vases_02...
+[2020.08.15-08.06.19:881][731]LogStaticMesh: Built static mesh [0.06s] /Game/Environments/Temple_Environment/Meshes/SM_Sub_Shrine_Vases_02.SM_Sub_Shrine_Vases_02
+[2020.08.15-08.06.19:892][731]LogStaticMesh: Building static mesh SM_Support_01...
+[2020.08.15-08.06.19:915][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Support_01.SM_Support_01
+[2020.08.15-08.06.19:920][731]LogStaticMesh: Building static mesh SM_Support_02...
+[2020.08.15-08.06.19:944][731]LogStaticMesh: Built static mesh [0.02s] /Game/Environments/Temple_Environment/Meshes/SM_Support_02.SM_Support_02
+[2020.08.15-08.06.19:948][731]LogStaticMesh: Building static mesh SM_Support_03...
+[2020.08.15-08.06.19:976][731]LogStaticMesh: Built static mesh [0.03s] /Game/Environments/Temple_Environment/Meshes/SM_Support_03.SM_Support_03
+[2020.08.15-08.06.19:978][731]LogTexture: Display: Building textures: T_MapRoom_Floor_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.19:982][731]LogMaterial: Display: Missing cached shader map for material M_ArenaColumn_01, compiling. 
+[2020.08.15-08.06.20:001][731]LogMaterial: Display: Missing cached shader map for material M_ArenaBG_Spire_01, compiling. 
+[2020.08.15-08.06.20:013][731]LogMaterial: Display: Missing cached shader map for material M_Archway, compiling. 
+[2020.08.15-08.06.20:026][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_3, compiling. 
+[2020.08.15-08.06.20:048][731]LogMaterial: Display: Missing cached shader map for material M_BonsaiBell_01, compiling. 
+[2020.08.15-08.06.20:066][731]LogMaterial: Display: Missing cached shader map for material M_Asia_BambooStalk_02, compiling. 
+[2020.08.15-08.06.20:084][731]LogMaterial: Display: Missing cached shader map for material M_Asia_BambooLimbs_02, compiling. 
+[2020.08.15-08.06.20:248][731]LogTexture: Display: Building textures: T_Courtyard_StoneFloor_N (BC5, 1024X1024)
+[2020.08.15-08.06.20:615][731]LogMaterial: Display: Missing cached shader map for material M_Courtyard_StoneFloor, compiling. 
+[2020.08.15-08.06.20:628][731]LogMaterial: Display: Missing cached shader map for material M_OldStone_NRM, compiling. 
+[2020.08.15-08.06.20:663][731]LogMaterial: Display: Missing cached shader map for material M_DamagedWall, compiling. 
+[2020.08.15-08.06.20:681][731]LogMaterial: Display: Missing cached shader map for material M_ColumnSupport, compiling. 
+[2020.08.15-08.06.20:714][731]LogMaterial: Display: Missing cached shader map for material M_Column01, compiling. 
+[2020.08.15-08.06.20:731][731]LogMaterial: Display: Missing cached shader map for material M_Cobble_02, compiling. 
+[2020.08.15-08.06.20:844][731]LogTexture: Display: Building textures: T_MapRoom_Windows_N (BC5, 2048X2048)
+[2020.08.15-08.06.20:844][731]LogMaterial: Display: Missing cached shader map for material M_CastleStitched_NRMS, compiling. 
+[2020.08.15-08.06.20:880][731]LogMaterial: Display: Missing cached shader map for material M_CastleCustom, compiling. 
+[2020.08.15-08.06.20:901][731]LogMaterial: Display: Missing cached shader map for material M_BlockWall_07_NRMS, compiling. 
+[2020.08.15-08.06.20:922][731]LogMaterial: Display: Missing cached shader map for material M_Elevator_RoomChains, compiling. 
+[2020.08.15-08.06.20:939][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Pillars, compiling. 
+[2020.08.15-08.06.20:951][731]LogMaterial: Display: Missing cached shader map for material M_DamWall, compiling. 
+[2020.08.15-08.06.20:971][731]LogMaterial: Display: Missing cached shader map for material M_Decay, compiling. 
+[2020.08.15-08.06.21:163][731]LogTexture: Display: Building textures: T_Coliseum_4_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:088][731]LogTexture: Display: Building textures: T_MapRoom_Windows_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:088][731]LogTexture: Display: Building textures: T_MapRoom_Stairs_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:088][731]LogTexture: Display: Building textures: T_MapRoom_Stairs_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_IronDoor_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_IronDoor_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Wroughtlron_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 591
+[2020.08.15-08.06.40:089][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 581
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Wroughtlron_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Asia_Ground_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 571
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Asia_Ground_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 561
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_TiledRock_01 (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_HeroRock_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_StatueHorn01_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_StatueHorn01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Statue_Sconce_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Statue_Sconce_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_FrontHall_WoodCeiling_D (AutoDXT, 512X512)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_FrontHall_WoodCeiling_N (BC5, 512X512)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Fountain2_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Fountain2_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Fountain1_N (BC5, 2048X2048)
+[2020.08.15-08.06.40:089][731]LogTexture: Display: Building textures: T_Coliseum_4_N (BC5, 2048X2048)
+[2020.08.15-08.06.41:179][731]LogTexture: Display: Building textures: T_Fountain1_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.41:179][731]LogTexture: Display: Building textures: T_Floor_Grating_N (BC5, 1024X1024)
+[2020.08.15-08.06.41:179][731]LogTexture: Display: Building textures: T_Floor_Grating_D (AutoDXT, 1024X1024)
+[2020.08.15-08.06.41:179][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_4, compiling. 
+[2020.08.15-08.06.41:415][731]LogTexture: Display: Building textures: T_Old_Cherry_Tree_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_GeneratorRoom_PillarRuin_N (BC5, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_GeneratorRoom_PillarRuin_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_Rock09_n (BC5, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_Rock09 (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_Main_Dungeon_Door_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_Main_Dungeon_Door_N (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_DemonDoor_N (BC5, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_DemonDoor_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_ExteriorWindow (AutoDXT, 64X64)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_BlockWall_08_N (BC5, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_BlockWall_08_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_BlockWall_08_B (AutoDXT, 1024X1024)
+[2020.08.15-08.06.53:374][731]LogTexture: Display: Building textures: T_Old_Cherry_Tree_N (BC5, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogTexture: Display: Building textures: T_Courtyard_StoneFloorTrim_N (BC5, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogTexture: Display: Building textures: T_Courtyard_StoneFloorTrim_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogTexture: Display: Building textures: T_ExtCastle_StoneWall_03_N (BC5, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogTexture: Display: Building textures: T_ExtCastle_StoneWall_03_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogTexture: Display: Building textures: T_Courtyard_Surbase_N (BC5, 2048X2048)
+[2020.08.15-08.06.54:834][731]LogMaterial: Display: Missing cached shader map for material M_Old_Cherry_TreeAlpha, compiling. 
+[2020.08.15-08.06.54:867][731]LogMaterial: Display: Missing cached shader map for material M_AsianTree, compiling. 
+[2020.08.15-08.06.54:912][731]LogMaterial: Display: Missing cached shader map for material M_BookShelf, compiling. 
+[2020.08.15-08.06.54:924][731]LogMaterial: Display: Missing cached shader map for material M_BonsaiBell_01Alpha, compiling. 
+[2020.08.15-08.06.54:953][731]LogMaterial: Display: Missing cached shader map for material M_BonsaiBell_02, compiling. 
+[2020.08.15-08.06.55:168][731]LogTexture: Display: Building textures: T_Sand_N (BC5, 2048X2048)
+[2020.08.15-08.06.56:275][731]LogTexture: Display: Building textures: T_Courtyard_Surbase_D (AutoDXT, 2048X2048)
+[2020.08.15-08.06.56:275][731]LogTexture: Display: Building textures: T_Asia_Wall02_N (BC5, 2048X2048)
+[2020.08.15-08.06.56:275][731]LogMaterial: Display: Missing cached shader map for material M_Sand, compiling. 
+[2020.08.15-08.06.56:491][731]LogTexture: Display: Building textures: T_Asia_Wall05_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Wall02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Floor01_N (BC5, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Floor01_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Wall05_N (BC5, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Bridge_N (BC5, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Bridge_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_MainDoor_N (BC5, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_MainDoor_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_DirtAsian_02 (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Dam_Ground_N (BC5, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Dam_Ground_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_RockSlab_02_N (BC5, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Light_N (AutoDXT, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Light_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_RockAsian_02_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Door_N (BC5, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Asia_Door_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogTexture: Display: Building textures: T_Scaffolding_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.11:609][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Wall05, compiling. 
+[2020.08.15-08.07.11:638][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Wall04, compiling. 
+[2020.08.15-08.07.11:657][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Wall03, compiling. 
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Scaffolding_N (BC5, 1024X1024)
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Asia_Column_N (BC5, 1024X1024)
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Asia_Column_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Asia_Wall01_N (BC5, 2048X2048)
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Asia_Wall01_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.13:680][731]LogTexture: Display: Building textures: T_Coliseum_1_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.13:680][731]LogMaterial: Display: Missing cached shader map for material M_Scaffolding, compiling. 
+[2020.08.15-08.07.13:715][731]LogMaterial: Display: Missing cached shader map for material M_Metal_01, compiling. 
+[2020.08.15-08.07.13:729][731]LogMaterial: Display: Missing cached shader map for material M_Vases, compiling. 
+[2020.08.15-08.07.13:764][731]LogTexture: Display: Building textures: T_Clock_FloorStones_N (BC5, 1024X1024)
+[2020.08.15-08.07.13:764][731]LogMaterial: Display: Missing cached shader map for material M_Hangar_Wall, compiling. 
+[2020.08.15-08.07.13:777][731]LogMaterial: Display: Missing cached shader map for material M_Shrine_E, compiling. 
+[2020.08.15-08.07.13:790][731]LogMaterial: Display: Missing cached shader map for material M_Hangar_Wall_02, compiling. 
+[2020.08.15-08.07.13:802][731]LogMaterial: Display: Missing cached shader map for material M_Shrine_Frame, compiling. 
+[2020.08.15-08.07.13:814][731]LogMaterial: Display: Missing cached shader map for material M_Hangar_Surbase, compiling. 
+[2020.08.15-08.07.13:828][731]LogMaterial: Display: Missing cached shader map for material M_Hangar_Ceiling, compiling. 
+[2020.08.15-08.07.13:841][731]LogMaterial: Display: Missing cached shader map for material M_Tomb, compiling. 
+[2020.08.15-08.07.13:855][731]LogMaterial: Display: Missing cached shader map for material M_Cliff01, compiling. 
+[2020.08.15-08.07.13:890][731]LogMaterial: Display: Missing cached shader map for material M_Throne_Floor, compiling. 
+[2020.08.15-08.07.13:913][731]LogMaterial: Display: Missing cached shader map for material M_Throne_BlackMarble, compiling. 
+[2020.08.15-08.07.13:930][731]LogMaterial: Display: Missing cached shader map for material M_StoneFloor, compiling. 
+[2020.08.15-08.07.13:955][731]LogMaterial: Display: Missing cached shader map for material M_Surbase, compiling. 
+[2020.08.15-08.07.13:987][731]LogTexture: Display: Building textures: T_Clock_FloorStones_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.13:987][731]LogMaterial: Display: Missing cached shader map for material M_StoneWall, compiling. 
+[2020.08.15-08.07.14:019][731]LogMaterial: Display: Missing cached shader map for material M_BrokenStoneFloor, compiling. 
+[2020.08.15-08.07.14:031][731]LogMaterial: Display: Missing cached shader map for material M_Plate, compiling. 
+[2020.08.15-08.07.15:206][731]LogTexture: Display: Building textures: T_Coliseum_1_N (BC5, 2048X2048)
+[2020.08.15-08.07.15:206][731]LogMaterial: Display: Missing cached shader map for material M_CliffRock_02, compiling. 
+[2020.08.15-08.07.15:228][731]LogMaterial: Display: Missing cached shader map for material M_CastlePieces, compiling. 
+[2020.08.15-08.07.15:241][731]LogMaterial: Display: Missing cached shader map for material M_PaperLantern, compiling. 
+[2020.08.15-08.07.15:279][731]LogTexture: Display: Building textures: T_Tablets_N (BC5, 1024X1024)
+[2020.08.15-08.07.15:279][731]LogMaterial: Display: Missing cached shader map for material M_AsianOniStatues, compiling. 
+[2020.08.15-08.07.15:299][731]LogMaterial: Display: Missing cached shader map for material M_Rock08, compiling. 
+[2020.08.15-08.07.15:312][731]LogMaterial: Display: Missing cached shader map for material M_WindowFrame, compiling. 
+[2020.08.15-08.07.15:335][731]LogMaterial: Display: Missing cached shader map for material M_Tile, compiling. 
+[2020.08.15-08.07.15:357][731]LogMaterial: Display: Missing cached shader map for material M_RedBeams, compiling. 
+[2020.08.15-08.07.15:380][731]LogMaterial: Display: Missing cached shader map for material M_Steps, compiling. 
+[2020.08.15-08.07.15:403][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Thrones_Masked, compiling. 
+[2020.08.15-08.07.15:424][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Thrones, compiling. 
+[2020.08.15-08.07.15:440][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Wall, compiling. 
+[2020.08.15-08.07.15:455][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Floor, compiling. 
+[2020.08.15-08.07.15:486][731]LogTexture: Display: Building textures: T_Tablets_D (AutoDXT, 1024X1024)
+[2020.08.15-08.07.15:487][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Curtains, compiling. 
+[2020.08.15-08.07.15:522][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Windows, compiling. 
+[2020.08.15-08.07.15:534][731]LogMaterial: Display: Missing cached shader map for material M_MapRoom_Stairs, compiling. 
+[2020.08.15-08.07.15:547][731]LogMaterial: Display: Missing cached shader map for material M_WroughtIron, compiling. 
+[2020.08.15-08.07.15:563][731]LogMaterial: Display: Missing cached shader map for material M_IronDoor, compiling. 
+[2020.08.15-08.07.15:583][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Ground, compiling. 
+[2020.08.15-08.07.15:601][731]LogMaterial: Display: Missing cached shader map for material M_HeroRock, compiling. 
+[2020.08.15-08.07.15:612][731]LogMaterial: Display: Missing cached shader map for material M_StatueHorn, compiling. 
+[2020.08.15-08.07.15:626][731]LogMaterial: Display: Missing cached shader map for material M_Statue_Sconce, compiling. 
+[2020.08.15-08.07.15:648][731]LogTexture: Display: Building textures: T_Courtyard_Pillar_N (BC5, 2048X2048)
+[2020.08.15-08.07.15:648][731]LogMaterial: Display: Missing cached shader map for material M_FrontHall_WoodCeiling, compiling. 
+[2020.08.15-08.07.15:667][731]LogMaterial: Display: Missing cached shader map for material M_Fountain2, compiling. 
+[2020.08.15-08.07.15:703][731]LogMaterial: Display: Missing cached shader map for material M_Fountain1, compiling. 
+[2020.08.15-08.07.15:754][731]LogMaterial: Display: Missing cached shader map for material M_PillarRuin, compiling. 
+[2020.08.15-08.07.15:781][731]LogMaterial: Display: Missing cached shader map for material M_Floor_Grating, compiling. 
+[2020.08.15-08.07.15:796][731]LogMaterial: Display: Missing cached shader map for material M_Rock09, compiling. 
+[2020.08.15-08.07.15:820][731]LogMaterial: Display: Missing cached shader map for material M_DungeonMainDoor, compiling. 
+[2020.08.15-08.07.15:836][731]LogMaterial: Display: Missing cached shader map for material M_DemonDoor, compiling. 
+[2020.08.15-08.07.15:858][731]LogMaterial: Display: Missing cached shader map for material M_ExteriorWindow, compiling. 
+[2020.08.15-08.07.15:872][731]LogMaterial: Display: Missing cached shader map for material M_CastleStitched, compiling. 
+[2020.08.15-08.07.15:906][731]LogTexture: Display: Building textures: T_Courtyard_Pillar_D (AutoDXT, 2048X2048)
+[2020.08.15-08.07.15:906][731]LogMaterial: Display: Missing cached shader map for material M_BlockWall_02_D, compiling. 
+[2020.08.15-08.07.16:215][731]LogTexture: Display: Building textures: T_Pit_Grass (AutoDXT, 2048X2048)
+[2020.08.15-08.07.23:931][731]LogTexture: Display: Building textures: T_Pit_Soil (AutoDXT, 2048X2048)
+[2020.08.15-08.07.23:931][731]LogTexture: Display: Building textures: T_Pit_Soil_N (BC5, 2048X2048)
+[2020.08.15-08.07.23:931][731]LogTexture: Display: Building textures: T_GroundAlphaBlend (AutoDXT, 512X512)
+[2020.08.15-08.07.23:931][731]LogTexture: Display: Building textures: T_Pit_Grass_N (BC5, 2048X2048)
+[2020.08.15-08.07.23:931][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1900
+[2020.08.15-08.07.23:931][731]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1890
+[2020.08.15-08.07.23:931][731]LogMaterial: Display: Missing cached shader map for material M_Pit_Grass, compiling. 
+[2020.08.15-08.07.23:942][731]LogMaterial: Display: Missing cached shader map for material M_Courtyard_StoneFloorTrim, compiling. 
+[2020.08.15-08.07.23:954][731]LogMaterial: Display: Missing cached shader map for material M_StoneWall_03, compiling. 
+[2020.08.15-08.07.23:973][731]LogMaterial: Display: Missing cached shader map for material M_Courtyard_Surbase, compiling. 
+[2020.08.15-08.07.24:020][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Wall01, compiling. 
+[2020.08.15-08.07.24:068][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Wall02, compiling. 
+[2020.08.15-08.07.24:087][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Floor01, compiling. 
+[2020.08.15-08.07.24:109][731]LogMaterial: Display: Missing cached shader map for material M_Asia_bridge, compiling. 
+[2020.08.15-08.07.24:129][731]LogMaterial: Display: Missing cached shader map for material M_Asia_MainDoor, compiling. 
+[2020.08.15-08.07.24:146][731]LogMaterial: Display: Missing cached shader map for material M_DirtAsian, compiling. 
+[2020.08.15-08.07.24:175][731]LogMaterial: Display: Missing cached shader map for material M_Dam_Ground, compiling. 
+[2020.08.15-08.07.24:194][731]LogMaterial: Display: Missing cached shader map for material M_Asia_light, compiling. 
+[2020.08.15-08.07.24:216][731]LogMaterial: Display: Missing cached shader map for material M_RockAsian, compiling. 
+[2020.08.15-08.07.24:236][731]LogMaterial: Display: Missing cached shader map for material M_AsianDoor, compiling. 
+[2020.08.15-08.07.24:256][731]LogMaterial: Display: Missing cached shader map for material M_Clock_FloorStones, compiling. 
+[2020.08.15-08.07.24:267][731]LogMaterial: Display: Missing cached shader map for material M_Asia_Column, compiling. 
+[2020.08.15-08.07.25:763][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2262
+[2020.08.15-08.07.25:763][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_1, compiling. 
+[2020.08.15-08.07.25:788][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_4_Masked, compiling. 
+[2020.08.15-08.07.25:850][731]LogMaterial: Display: Missing cached shader map for material M_Tablets, compiling. 
+[2020.08.15-08.07.25:866][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_4_Transparent, compiling. 
+[2020.08.15-08.07.25:971][731]LogMaterial: Display: Missing cached shader map for material M_Courtyard_Pillar_D, compiling. 
+[2020.08.15-08.07.25:996][731]LogMaterial: Display: Missing cached shader map for material M_Coliseum_3_2Sided, compiling. 
+[2020.08.15-08.07.26:021][731]LogMaterial: Display: Missing cached shader map for material M_PitGround, compiling. 
+[2020.08.15-08.07.26:706][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2458
+[2020.08.15-08.07.29:432][921]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2448
+[2020.08.15-08.07.31:322][ 46]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2438
+[2020.08.15-08.07.31:336][ 47]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2428
+[2020.08.15-08.07.32:074][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2418
+[2020.08.15-08.07.37:763][446]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2408
+[2020.08.15-08.07.38:062][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2398
+[2020.08.15-08.07.38:224][466]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2388
+[2020.08.15-08.07.38:410][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2378
+[2020.08.15-08.07.42:937][667]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2368
+[2020.08.15-08.07.42:958][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2358
+[2020.08.15-08.07.43:119][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2348
+[2020.08.15-08.07.44:142][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2338
+[2020.08.15-08.07.48:152][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2328
+[2020.08.15-08.07.48:242][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2318
+[2020.08.15-08.07.49:032][930]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2308
+[2020.08.15-08.07.50:442][991]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2298
+[2020.08.15-08.07.51:856][ 52]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2288
+[2020.08.15-08.07.52:491][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2278
+[2020.08.15-08.07.53:737][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2268
+[2020.08.15-08.07.54:553][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2258
+[2020.08.15-08.07.56:156][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2248
+[2020.08.15-08.07.56:999][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2238
+[2020.08.15-08.07.58:927][363]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2228
+[2020.08.15-08.07.59:067][369]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2218
+[2020.08.15-08.08.01:581][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2208
+[2020.08.15-08.08.02:006][495]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2198
+[2020.08.15-08.08.04:195][591]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2188
+[2020.08.15-08.08.04:502][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2178
+[2020.08.15-08.08.06:353][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2168
+[2020.08.15-08.08.07:088][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2158
+[2020.08.15-08.08.09:587][825]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2148
+[2020.08.15-08.08.09:992][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2138
+[2020.08.15-08.08.11:619][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2128
+[2020.08.15-08.08.13:624][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2118
+[2020.08.15-08.08.14:238][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2108
+[2020.08.15-08.08.15:926][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2098
+[2020.08.15-08.08.16:988][140]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2088
+[2020.08.15-08.08.18:487][203]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2078
+[2020.08.15-08.08.19:804][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2068
+[2020.08.15-08.08.21:155][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2058
+[2020.08.15-08.08.22:728][399]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2048
+[2020.08.15-08.08.23:073][421]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.08.23:079][421]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.08.24:739][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2038
+[2020.08.15-08.08.25:392][641]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2028
+[2020.08.15-08.08.27:601][865]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2018
+[2020.08.15-08.08.29:384][ 47]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2008
+[2020.08.15-08.08.31:457][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1998
+[2020.08.15-08.08.31:660][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1988
+[2020.08.15-08.08.34:916][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1978
+[2020.08.15-08.08.35:346][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1968
+[2020.08.15-08.08.37:078][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1958
+[2020.08.15-08.08.37:910][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1948
+[2020.08.15-08.08.40:030][828]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1938
+[2020.08.15-08.08.40:968][882]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1928
+[2020.08.15-08.08.43:080][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1918
+[2020.08.15-08.08.43:478][ 26]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1908
+[2020.08.15-08.08.45:505][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1898
+[2020.08.15-08.08.47:608][240]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1888
+[2020.08.15-08.08.48:157][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1878
+[2020.08.15-08.08.48:296][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1868
+[2020.08.15-08.08.50:606][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1858
+[2020.08.15-08.08.52:494][519]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1848
+[2020.08.15-08.08.52:608][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1838
+[2020.08.15-08.08.53:271][565]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1828
+[2020.08.15-08.08.55:215][675]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1818
+[2020.08.15-08.08.57:596][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1808
+[2020.08.15-08.08.58:198][833]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1798
+[2020.08.15-08.08.58:495][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1788
+[2020.08.15-08.09.01:715][931]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1778
+[2020.08.15-08.09.03:667][ 39]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1768
+[2020.08.15-08.09.04:013][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1758
+[2020.08.15-08.09.05:573][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1748
+[2020.08.15-08.09.06:946][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1738
+[2020.08.15-08.09.08:330][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1728
+[2020.08.15-08.09.09:130][352]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1718
+[2020.08.15-08.09.10:967][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1708
+[2020.08.15-08.09.12:708][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1698
+[2020.08.15-08.09.12:892][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1688
+[2020.08.15-08.09.14:503][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1678
+[2020.08.15-08.09.16:621][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1668
+[2020.08.15-08.09.17:842][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1658
+[2020.08.15-08.09.18:461][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1648
+[2020.08.15-08.09.20:895][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1638
+[2020.08.15-08.09.21:527][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1628
+[2020.08.15-08.09.23:844][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1618
+[2020.08.15-08.09.23:910][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1608
+[2020.08.15-08.09.26:746][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1598
+[2020.08.15-08.09.27:861][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1588
+[2020.08.15-08.09.28:791][478]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1578
+[2020.08.15-08.09.29:648][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1568
+[2020.08.15-08.09.32:749][707]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1558
+[2020.08.15-08.09.33:166][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1548
+[2020.08.15-08.09.35:123][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1538
+[2020.08.15-08.09.35:727][894]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1528
+[2020.08.15-08.09.37:958][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1518
+[2020.08.15-08.09.39:655][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1508
+[2020.08.15-08.09.40:987][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1498
+[2020.08.15-08.09.41:285][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1488
+[2020.08.15-08.09.44:211][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1478
+[2020.08.15-08.09.45:468][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1468
+[2020.08.15-08.09.46:444][571]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1458
+[2020.08.15-08.09.47:550][644]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1448
+[2020.08.15-08.09.49:018][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1438
+[2020.08.15-08.09.50:554][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1428
+[2020.08.15-08.09.51:782][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1418
+[2020.08.15-08.09.52:607][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1408
+[2020.08.15-08.09.53:785][ 32]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1398
+[2020.08.15-08.09.54:419][ 69]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1388
+[2020.08.15-08.09.57:579][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1378
+[2020.08.15-08.09.57:655][271]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1368
+[2020.08.15-08.09.59:043][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1358
+[2020.08.15-08.10.00:397][439]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1348
+[2020.08.15-08.10.03:152][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1338
+[2020.08.15-08.10.04:450][687]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1328
+[2020.08.15-08.10.04:607][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1318
+[2020.08.15-08.10.07:016][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1308
+[2020.08.15-08.10.09:953][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1298
+[2020.08.15-08.10.10:306][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1288
+[2020.08.15-08.10.10:866][118]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.10.10:871][118]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.10.12:095][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1278
+[2020.08.15-08.10.12:347][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1268
+[2020.08.15-08.10.15:878][618]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1258
+[2020.08.15-08.10.17:234][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1248
+[2020.08.15-08.10.18:292][868]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1238
+[2020.08.15-08.10.20:239][ 70]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1228
+[2020.08.15-08.10.22:498][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1218
+[2020.08.15-08.10.23:772][434]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1208
+[2020.08.15-08.10.24:381][492]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1198
+[2020.08.15-08.10.27:722][832]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1188
+[2020.08.15-08.10.28:910][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1178
+[2020.08.15-08.10.30:794][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1168
+[2020.08.15-08.10.32:174][285]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1158
+[2020.08.15-08.10.33:679][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1148
+[2020.08.15-08.10.35:754][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1138
+[2020.08.15-08.10.36:497][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1128
+[2020.08.15-08.10.39:273][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1118
+[2020.08.15-08.10.39:528][778]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1108
+[2020.08.15-08.10.41:404][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1098
+[2020.08.15-08.10.43:558][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1088
+[2020.08.15-08.10.44:890][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1078
+[2020.08.15-08.10.46:247][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1068
+[2020.08.15-08.10.48:247][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1058
+[2020.08.15-08.10.49:347][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1048
+[2020.08.15-08.10.50:966][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1038
+[2020.08.15-08.10.52:312][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1028
+[2020.08.15-08.10.52:802][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1018
+[2020.08.15-08.10.53:589][514]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1008
+[2020.08.15-08.10.55:977][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 998
+[2020.08.15-08.10.56:911][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 988
+[2020.08.15-08.10.58:736][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 978
+[2020.08.15-08.10.59:142][816]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 968
+[2020.08.15-08.11.02:005][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 958
+[2020.08.15-08.11.02:436][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 948
+[2020.08.15-08.11.02:674][ 12]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 938
+[2020.08.15-08.11.04:373][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 928
+[2020.08.15-08.11.06:460][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 918
+[2020.08.15-08.11.06:993][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 908
+[2020.08.15-08.11.08:277][325]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 898
+[2020.08.15-08.11.09:689][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 888
+[2020.08.15-08.11.11:164][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 878
+[2020.08.15-08.11.12:605][572]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 868
+[2020.08.15-08.11.14:276][665]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 858
+[2020.08.15-08.11.14:837][696]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 848
+[2020.08.15-08.11.17:663][853]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 838
+[2020.08.15-08.11.17:743][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 828
+[2020.08.15-08.11.20:374][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 818
+[2020.08.15-08.11.20:428][ 11]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 808
+[2020.08.15-08.11.23:284][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 798
+[2020.08.15-08.11.23:441][242]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 788
+[2020.08.15-08.11.26:426][541]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 778
+[2020.08.15-08.11.27:851][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 768
+[2020.08.15-08.11.29:923][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 758
+[2020.08.15-08.11.30:277][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 748
+[2020.08.15-08.11.32:995][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 738
+[2020.08.15-08.11.36:206][544]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 728
+[2020.08.15-08.11.36:302][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 718
+[2020.08.15-08.11.37:143][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 708
+[2020.08.15-08.11.41:691][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 698
+[2020.08.15-08.11.43:264][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 688
+[2020.08.15-08.11.43:455][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 678
+[2020.08.15-08.11.43:595][243]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 668
+[2020.08.15-08.11.48:232][514]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 658
+[2020.08.15-08.11.48:422][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 648
+[2020.08.15-08.11.48:469][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 638
+[2020.08.15-08.11.48:609][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 628
+[2020.08.15-08.11.52:354][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 618
+[2020.08.15-08.11.52:641][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 608
+[2020.08.15-08.11.53:947][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 598
+[2020.08.15-08.11.54:145][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 588
+[2020.08.15-08.11.56:935][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 578
+[2020.08.15-08.11.57:506][ 70]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 568
+[2020.08.15-08.11.58:420][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 558
+[2020.08.15-08.11.58:829][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 548
+[2020.08.15-08.12.01:008][288]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 538
+[2020.08.15-08.12.02:017][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 528
+[2020.08.15-08.12.02:436][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 518
+[2020.08.15-08.12.03:627][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 508
+[2020.08.15-08.12.05:923][599]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 498
+[2020.08.15-08.12.06:397][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 488
+[2020.08.15-08.12.07:114][673]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 478
+[2020.08.15-08.12.08:405][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 468
+[2020.08.15-08.12.10:241][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 458
+[2020.08.15-08.12.11:729][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 448
+[2020.08.15-08.12.11:853][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 438
+[2020.08.15-08.12.13:147][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 428
+[2020.08.15-08.12.15:360][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 418
+[2020.08.15-08.12.16:166][233]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 408
+[2020.08.15-08.12.17:026][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 398
+[2020.08.15-08.12.17:319][304]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 388
+[2020.08.15-08.12.20:744][514]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 378
+[2020.08.15-08.12.20:759][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 368
+[2020.08.15-08.12.21:635][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 358
+[2020.08.15-08.12.22:932][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 348
+[2020.08.15-08.12.24:607][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 338
+[2020.08.15-08.12.26:207][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 328
+[2020.08.15-08.12.26:236][854]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 318
+[2020.08.15-08.12.27:560][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 308
+[2020.08.15-08.12.29:644][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 298
+[2020.08.15-08.12.30:547][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 288
+[2020.08.15-08.12.31:504][181]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 278
+[2020.08.15-08.12.31:640][190]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 268
+[2020.08.15-08.12.35:056][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 258
+[2020.08.15-08.12.35:109][405]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 248
+[2020.08.15-08.12.35:624][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 238
+[2020.08.15-08.12.36:889][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 228
+[2020.08.15-08.12.39:816][685]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 218
+[2020.08.15-08.12.40:055][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 208
+[2020.08.15-08.12.40:209][706]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 198
+[2020.08.15-08.12.43:007][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 188
+[2020.08.15-08.12.44:426][957]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 178
+[2020.08.15-08.12.44:744][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 168
+[2020.08.15-08.12.45:888][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 158
+[2020.08.15-08.12.47:477][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2020.08.15-08.12.48:100][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 138
+[2020.08.15-08.12.48:696][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 128
+[2020.08.15-08.12.49:691][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 118
+[2020.08.15-08.12.51:088][368]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 108
+[2020.08.15-08.12.52:168][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2020.08.15-08.12.52:954][484]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 88
+[2020.08.15-08.12.53:669][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2020.08.15-08.12.56:743][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.08.15-08.12.57:677][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.08.15-08.12.58:074][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.15-08.12.58:822][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.08.15-08.13.01:062][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.08.15-08.13.01:412][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.08.15-08.13.01:636][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.08.15-08.13.03:263][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.15-08.13.03:493][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.15-08.13.03:620][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.15-08.13.04:377][181]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.15-08.13.04:558][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.15-08.13.04:595][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.15-08.25.30:846][891]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.15-08.27.00:934][731]Cmd: TRANSACTION UNDO
+[2020.08.15-08.27.00:934][731]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.08.15-08.27.00:960][731]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.15-08.27.20:384][876]Cmd: TRANSACTION UNDO
+[2020.08.15-08.27.20:384][876]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.08.15-08.27.20:410][876]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.15-08.27.46:030][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-08.27.46:046][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.08.15-08.27.46:160][864]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap10AD9BAF4946A2F214ADDDA45FBF2451.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.15-08.27.46:192][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap_BuiltData" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset" SILENT=true
+[2020.08.15-08.27.46:204][864]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap_BuiltDataDFFA4C6640CCA696A92C48ACC2E3B133.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset'
+[2020.08.15-08.27.46:221][864]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-08.27.46:221][864]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.15-08.27.46:221][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2020.08.15-08.27.58:999][373]MapCheck: New page: Map Check
+[2020.08.15-08.27.59:010][373]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.15-08.27.59:010][373]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.15-08.27.59:107][373]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=false
+[2020.08.15-08.27.59:118][373]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.15-08.27.59:118][373]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.15-08.27.59:118][373]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.15-08.27.59:130][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.08.15-08.27.59:140][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.15-08.27.59:143][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.15-08.27.59:145][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.15-08.27.59:147][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.15-08.27.59:981][373]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.15-08.27.59:981][373]TextureStreamingBuild: Display: Compiling optional shaders took 0.845 seconds.
+[2020.08.15-08.27.59:997][373]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2020.08.15-08.27.59:998][373]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2020.08.15-08.28.00:007][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.08.15-08.28.00:010][373]LightingResults: New page: Lighting Build - 15 Aug 2020, 12:28:00
+[2020.08.15-08.28.00:087][373]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.15-08.28.00:170][373]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.15-08.28.00:185][373]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.15-08.28.01:195][373]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.15-08.28.01:195][373]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2212
+[2020.08.15-08.28.03:757][373]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.08.15-08.28.03:757][373]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.15-08.28.03:757][373]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.15-08.28.03:757][373]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.15-08.28.03:757][373]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.15-08.28.03:757][373]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.15-08.28.03:950][373]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.15-08.28.03:951][373]MapCheck: New page: StarterMap - 15 Aug 2020, 12:28:03
+[2020.08.15-08.28.03:951][373]MapCheck: Warning: Landscape_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.08.15-08.28.03:951][373]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.582ms to complete.
+[2020.08.15-08.28.03:953][373]LogEditorBuildUtils: Build time 0:04
+[2020.08.15-08.28.04:003][373]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2020.08.15-08.28.04:007][373]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2020.08.15-08.28.04:080][373]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.15-08.28.04:080][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.15-08.28.04:251][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.15-08.28.04:256][377]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.15-08.28.04:256][377]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.15-08.28.04:256][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.15-08.28.05:122][379]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.15-08.28.05:122][379]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.15-08.28.07:903][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.15-08.28.26:389][157]Job is a success!
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.065s
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 4.9Mb due to 0.010000 MinBrickError)
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:          0: 8.8% covering 100.0% of volume
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:          1: 91.2% covering 16.2% of volume
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.15-08.28.26:558][158]LogVolumetricLightmapImport:          StarterMap 			 91 bricks 	 100.0% (Persistent Level)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:675][158]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2020.08.15-08.28.26:676][158]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2020.08.15-08.28.26:696][158]LogStaticLightingSystem: StarterMap_BuiltData storing lightmap data for 64 meshes in 26 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.08.15-08.28.26:717][158]Lightmass on DESKTOP-HKO7BU7: 17.8 sec total, 335 ms importing, 238 ms setup, 2.95 sec photons, 14.2 sec processing, 0 ms extra exporting [64/64 mappings]. Threads: 1:39 min total, 23.1 sec processing.
+[2020.08.15-08.28.26:717][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.08.15-08.28.26:785][158]LogStaticLightingSystem: Illumination: 26.6 sec (31 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.08.15-08.28.26:785][158]LogStaticLightingSystem: Lightmap texture memory:  1.6 MB (1.6 MB streaming, 0.0 MB non-streaming), 50 textures
+[2020.08.15-08.28.26:785][158]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.08.15-08.28.27:776][158]DumpUnbuiltLightIteractions
+[2020.08.15-08.28.27:776][158]Lights with unbuilt interactions: 0
+[2020.08.15-08.28.27:776][158]
+[2020.08.15-08.28.27:776][158]Primitives with unbuilt interactions: 0
+[2020.08.15-08.28.27:863][159]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.15-08.28.27:863][159]MapCheck: New page: StarterMap - 15 Aug 2020, 12:28:27
+[2020.08.15-08.28.27:864][159]MapCheck: Warning: Landscape_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.08.15-08.28.27:864][159]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.399ms to complete.
+[2020.08.15-08.30.52:107][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-08.30.52:118][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.08.15-08.30.52:209][913]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMapEAE55FDF4F9A17EBA176D7A87635BF9F.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.15-08.30.52:241][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap_BuiltData" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset" SILENT=true
+[2020.08.15-08.30.52:280][913]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap_BuiltDataB068D4924E951C9B07B70C87DB33E767.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset'
+[2020.08.15-08.30.52:291][913]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-08.30.52:291][913]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.15-08.30.52:291][913]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2020.08.15-08.30.56:285][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.15-08.31.11:015][ 82]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-08.31.11:018][ 82]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-08.31.49:143][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.15-08.31.59:516][655]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.31.59:521][655]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.32.00:498][764]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StarterMap.StarterMap
+[2020.08.15-08.32.00:509][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.08.15-08.32.00:513][764]Cmd: MAP LOAD FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-08.32.00:513][764]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.00:513][764]LoadErrors: New page: Loading map: StarterMap.umap
+[2020.08.15-08.32.00:550][764]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-08.32.00:550][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.15-08.32.00:550][764]MapCheck: New page: Map Check
+[2020.08.15-08.32.00:550][764]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.00:563][764]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029582778E00), frame # 1580764
+[2020.08.15-08.32.00:563][764]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029583ACEE00), frame # 1580764
+[2020.08.15-08.32.00:564][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.15-08.32.00:578][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.08.15-08.32.00:593][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.08.15-08.32.00:602][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.08.15-08.32.00:637][764]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.15-08.32.00:637][764]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029641E2A600), frame # 1580764
+[2020.08.15-08.32.00:637][764]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002963BAA4180), frame # 1580764
+[2020.08.15-08.32.00:911][764]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-08.32.00:921][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.15-08.32.00:948][764]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-08.32.00:948][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2020.08.15-08.32.00:948][764]LogFileHelpers: Loading map 'StarterMap' took 0.436
+[2020.08.15-08.32.04:402][165]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StarterMap1.StarterMap1
+[2020.08.15-08.32.04:411][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.15-08.32.04:413][165]Cmd: MAP LOAD FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-08.32.04:413][165]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.04:414][165]LoadErrors: New page: Loading map: StarterMap1.umap
+[2020.08.15-08.32.04:460][165]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-08.32.04:460][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.15-08.32.04:460][165]MapCheck: New page: Map Check
+[2020.08.15-08.32.04:460][165]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.04:475][165]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002963BAA4180), frame # 1581165
+[2020.08.15-08.32.04:475][165]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029641E2A600), frame # 1581165
+[2020.08.15-08.32.04:476][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.08.15-08.32.04:626][165]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-08.32.04:626][165]LogAIModule: Creating AISystem for world StarterMap1
+[2020.08.15-08.32.04:626][165]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000295B49A2600), frame # 1581165
+[2020.08.15-08.32.04:626][165]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002960DAEE980), frame # 1581165
+[2020.08.15-08.32.04:639][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.15-08.32.04:666][165]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-08.32.04:666][165]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2020.08.15-08.32.04:666][165]LogFileHelpers: Loading map 'StarterMap1' took 0.253
+[2020.08.15-08.32.10:282][816]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.08.15-08.32.45:297][890]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StarterMap.StarterMap
+[2020.08.15-08.32.45:310][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.15-08.32.45:316][890]Cmd: MAP LOAD FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-08.32.45:316][890]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.45:316][890]LoadErrors: New page: Loading map: StarterMap.umap
+[2020.08.15-08.32.45:318][890]LogWorld: UWorld::CleanupWorld for StarterMap1, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-08.32.45:318][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.15-08.32.45:319][890]MapCheck: New page: Map Check
+[2020.08.15-08.32.45:319][890]LightingResults: New page: Lighting Build
+[2020.08.15-08.32.45:330][890]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002960DAEE980), frame # 1585890
+[2020.08.15-08.32.45:330][890]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000295B49A2600), frame # 1585890
+[2020.08.15-08.32.45:331][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-08.32.45:542][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-08.32.45:542][890]LogAIModule: Creating AISystem for world StarterMap
+[2020.08.15-08.32.45:543][890]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002961F1D2800), frame # 1585890
+[2020.08.15-08.32.45:543][890]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000295B5721D00), frame # 1585890
+[2020.08.15-08.32.45:554][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.15-08.32.45:584][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-08.32.45:584][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.08.15-08.32.45:584][890]LogFileHelpers: Loading map 'StarterMap' took 0.269
+[2020.08.15-08.33.34:773][729]Cmd: DELETE
+[2020.08.15-08.33.34:773][729]Cmd: ACTOR DELETE
+[2020.08.15-08.33.34:776][729]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2020.08.15-08.33.34:788][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.08.15-08.33.34:793][729]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.08.15-08.34.46:364][208]Cmd: DELETE
+[2020.08.15-08.34.46:364][208]Cmd: ACTOR DELETE
+[2020.08.15-08.34.46:370][208]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.08.15-08.34.46:384][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.08.15-08.34.46:390][208]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.08.15-08.35.16:256][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-08.35.16:265][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.15-08.35.16:376][748]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap108B1AE54BB89377FC1A0CBCCFD74F75.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.15-08.35.16:408][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap_BuiltData" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset" SILENT=true
+[2020.08.15-08.35.16:473][748]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap_BuiltData887F0F0A42EEF2BF7B2376AE6314BCA3.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset'
+[2020.08.15-08.35.16:483][748]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-08.35.16:483][748]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.15-08.35.16:484][748]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2020.08.15-08.35.18:303][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.15-08.35.55:226][558]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.35.55:229][558]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.35.59:980][ 83]LogObjectTools: Deleting 1 worlds: /Game/Maps/StarterMap1.StarterMap1
+[2020.08.15-08.35.59:980][ 83]LogObjectTools: Currently 5 active worlds: /Game/Maps/StarterMap.StarterMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2020.08.15-08.35.59:991][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.08.15-08.36.01:109][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-08.36.01:124][ 83]LogWorld: UWorld::CleanupWorld for StarterMap1, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-08.36.01:124][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.15-08.36.01:181][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.15-08.36.01:196][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.15-08.36.01:205][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.08.15-08.38.14:053][  8]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.38.14:058][  8]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.39.12:999][723]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.15-08.39.13:002][723]LogSlate: Window 'Project Settings' being destroyed
