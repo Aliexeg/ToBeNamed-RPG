@@ -6965,3 +6965,85 @@ Make sure 'Weapon_C' has been compiled for  Get ItemName
 [2020.08.16-12.47.46:009][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.08.16-12.47.46:009][295]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2020.08.16-12.47.46:009][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-12.48.42:407][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem_C' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.SKEL_BaseItem_C' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:ChooseRarity.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:ChooseLootType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:ChooseItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:ChooseWeaponType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:415][604]LogMetaData: Removing '/Game/LootSystem/BaseItem.BaseItem:ChooseArmorType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/Armor.PackageMetaData'
+[2020.08.16-12.48.42:444][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LootSystem/BaseItem" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseItem.uasset" SILENT=true
+[2020.08.16-12.48.42:489][604]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/BaseItemD2CC185C44DC90BF0842EBBC1F17E6CF.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseItem.uasset'
+[2020.08.16-12.48.42:593][604]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LootSystem/Armor.Armor'
+[2020.08.16-12.48.42:644][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.08.16-12.48.42:665][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.08.16-12.48.42:679][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.16-12.48.42:728][604]AssetCheck: New page: Asset Save: BaseItem
+[2020.08.16-12.48.42:728][604]LogContentValidation: Display: Validating Blueprint /Game/LootSystem/BaseItem.BaseItem
+[2020.08.16-12.48.47:034][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LootSystem/BaseChest.BaseChest
+[2020.08.16-12.48.50:107][417]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.16-12.48.59:169][491]BlueprintLog: New page: Compile BaseChest
+[2020.08.16-12.48.59:213][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.08.16-12.49.01:583][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LootSystem/BaseChest" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseChest.uasset" SILENT=true
+[2020.08.16-12.49.01:617][768]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/BaseChest874AF24E4507A117286F5C9057BF6881.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseChest.uasset'
+[2020.08.16-12.49.01:628][768]AssetCheck: New page: Asset Save: BaseChest
+[2020.08.16-12.49.01:628][768]LogContentValidation: Display: Validating Blueprint /Game/LootSystem/BaseChest.BaseChest
+[2020.08.16-12.49.02:347][853]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-12.49.02:347][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-12.49.20:774][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LootSystem/Armor.Armor
+[2020.08.16-12.49.32:981][410]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LootSystem/Weapon.Weapon
+[2020.08.16-12.49.39:885][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LootSystem/BaseItem.BaseItem
+[2020.08.16-12.50.39:249][166]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-12.50.39:249][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-12.51.00:154][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LootSystem/BaseChest.BaseChest
+[2020.08.16-12.51.24:704][532]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.16-12.51.40:737][431]BlueprintLog: New page: Compile BaseChest
+[2020.08.16-12.51.40:791][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.16-12.52.06:798][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.16-12.52.09:691][445]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.16-12.52.11:068][603]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-12.52.11:069][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-12.52.16:067][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.08.16-12.52.25:906][141]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.16-12.52.26:863][141]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LootSystem/Armor.Armor
+[2020.08.16-12.52.27:371][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.08.16-12.52.27:546][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.16-12.52.34:666][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.16-12.52.34:734][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor_C' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.SKEL_Armor_C' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:ChooseRarity.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:ChooseLootType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:ChooseItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:ChooseWeaponType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:738][983]LogMetaData: Removing '/Game/LootSystem/Armor.Armor:ChooseArmorType.K2Node_FunctionEntry_0' ref from Metadata '/Game/LootSystem/BaseItem.PackageMetaData'
+[2020.08.16-12.52.34:763][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LootSystem/Armor" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/Armor.uasset" SILENT=true
+[2020.08.16-12.52.34:802][983]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/Armor226B72F74232539EF03A1FA41421C9DB.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/Armor.uasset'
+[2020.08.16-12.52.34:963][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.08.16-12.52.34:988][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.08.16-12.52.35:006][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.16-12.52.35:021][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LootSystem/BaseChest" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseChest.uasset" SILENT=true
+[2020.08.16-12.52.35:051][983]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/BaseChestC36BDED644B8B33346AE44A552351EB1.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/LootSystem/BaseChest.uasset'
+[2020.08.16-12.52.35:103][983]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.16-12.52.35:103][983]LogContentValidation: Display: Validating Blueprint /Game/LootSystem/Armor.Armor
+[2020.08.16-12.52.35:103][983]LogContentValidation: Display: Validating Blueprint /Game/LootSystem/BaseChest.BaseChest
+[2020.08.16-12.52.37:756][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.16-12.52.37:771][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.16-12.52.37:790][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.16-12.52.37:867][284]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap59E043BB4B70CE1CCA1F7884F3B3CDA4.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap.umap'
+[2020.08.16-12.52.37:896][284]LogFileHelpers: Saving map 'StarterMap' took 0.125
+[2020.08.16-12.52.37:896][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap_BuiltData" FILE="D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset" SILENT=true
+[2020.08.16-12.52.37:938][284]LogSavePackage: Moving 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Saved/StarterMap_BuiltData2CDD79E44AB7026F07C1CAABACA23FA1.tmp' to 'D:/UnrealEngine 4/Projects/ToBeNamed_RPG2/ToBeNamed-RPG/ToBeNamed_RPG/Content/Maps/StarterMap_BuiltData.uasset'
+[2020.08.16-12.52.37:951][284]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.16-12.52.37:951][284]LogContentValidation: Display: Validating World /Game/Maps/StarterMap.StarterMap
+[2020.08.16-12.52.37:951][284]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/StarterMap_BuiltData.StarterMap_BuiltData
